@@ -15,4 +15,5 @@ fields:
   name: category
   label: category
 pages:
+- content/en/inauguration-prof.thermal-physiology.md
 - content/en/summary-of-the-phd-thesis-of-hein-daanen.md
