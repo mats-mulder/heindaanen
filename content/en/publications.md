@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Publications
 position: 3
 category: Academy
 
