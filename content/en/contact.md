@@ -19,9 +19,9 @@ Email [daanen@ziggo.nl](mailto:daanen@ziggo.nl)
 
 [Amsterdam Institute of Sport Sciences](https://aiss.nl/ "AISS")
 
-## [Sizing Science](http://www.sizingscience.nl/)  
-  
-Work address:
+## [Sizing Science](http://www.sizingscience.nl/)
+
+## Work address:
 
 Van der Boechorststraat 7  
 1081 BT Amsterdam  
