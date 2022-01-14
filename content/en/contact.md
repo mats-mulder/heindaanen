@@ -11,7 +11,7 @@ Mobile phone: +31 6 86676808
 
 Email [daanen@ziggo.nl](mailto:daanen@ziggo.nl)
 
-## Affiliations_:_
+## Affiliations:
 
 [Faculty of Behavioural and Movement Sciences](http://www.fgb.vu.nl/)
 
