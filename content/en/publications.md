@@ -1,7 +1,7 @@
 ---
 title: Publications
 position: 3
-category: Academy
+category: Academic
 
 ---
 ## 2022
