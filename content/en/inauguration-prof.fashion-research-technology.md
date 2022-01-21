@@ -5,4 +5,4 @@ position: 6
 category: Academic
 
 ---
-The file can be downloaded here: [lectrede.pdf](https://heindaanen.nl/images/lectrede.pdf "lectrede.pdf")
+Speech held November 25, 2014 in Amsterdam: [lectrede.pdf](https://heindaanen.nl/images/lectrede.pdf "lectrede.pdf")
