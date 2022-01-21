@@ -30,7 +30,7 @@ category: Academic
 * Ph.D. Medicine, VU University Amsterdam, 1997, Thesis: "Central and peripheral control of finger blood flow in the cold"
 * Medical-Biological Sciences Teaching Degree, 1984
 * Post Doctoral Course Computer Science, 1984
-* [M.Sc. Human Movement Science, VU University](http://www.fbw.vu.nl) Amsterdam, 1978 - 1984
+* [M.Sc. Human Movement Science, VU University](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/departments/human-movement-sciences) Amsterdam, 1978 - 1984
 * [Carolus Borromeus College High School](http://www.carolus.nl) Helmond, 1970 - 1978
 * Johannes Primary school Mierlo, 1964 - 1970
 
