@@ -13,4 +13,6 @@ Hein loves to play basketball. He is a member of the [http://www.pirates-soester
 
 ## Cycling
 
+/images/bike.jpg
+
 Whenever weather allows Hein is on the bike.
