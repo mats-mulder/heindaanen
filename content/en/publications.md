@@ -6,7 +6,7 @@ category: Academic
 ---
 ## 2022
 
-* Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health . DOI: 10.1007/s00420-021-01721-y
+* [Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health 95:29-258, 2022. DOI: 10.1007/s00420-021-01721-y](/images/folkerts2022_sex.pdf "Folkerts2022")
 
 ## 2021
 
@@ -600,3 +600,11 @@ category: Academic
 ## 1984
 
 * Daanen, H.A.M. CARA en inspanning (_Cara and exercise_). Thomas 3: 99 - 103, 1984.
+
+## 1978
+
+Daanen, H.A.M. Geert van Beek, KIP 1978.
+
+## 1968
+
+Daanen, H.A.M. Op de kermis. De schoolklapper 2(2): 6, 1968.
