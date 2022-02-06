@@ -4,6 +4,10 @@ position: 3
 category: Academic
 
 ---
+## 2022
+
+* Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health . DOI: 10.1007/s00420-021-01721-y
+
 ## 2021
 
 * [Alkemade, P., Gerrett, N., Eijsvogels, T.M.H., Daanen, H.A.M. Individual characteristics associated with the magnitude of heat acclimation adaptations. European Journal of Applied Physiology. DOI: /10.1007/s00421-021-04626-3.](https://heindaanen.nl/images/alkemade2021.pdf "2021Alkemade")
@@ -11,7 +15,6 @@ category: Academic
 * [Daanen, H.A.M., Bose-O'Reilly, S., Brearly, M., Flouris, D.A., Gerrett, N.M., Jones, H.M., Lee, J.K.W., Morris, M., Norton, I., Nybo, L., Oppermann, E., Shumake-Guillemot, J., Van den Hazel, P. COVID-19 and thermoregulation-related problems: Practical recommendations. Temperature 8(1):1-11. DOI: 10.1080/23328940.2020.1790971.](https://heindaanen.nl/images/daanen2020-covid.pdf "2021Daanen")
 * [De Korte, J.Q., Bongers, C.C.W.G., Hopman, M.T.E., Teunissen, L.P.J., Jansen, K.M.B., Kingma, B.R.M., Ballak, S.B., Maase, K., Moen, M.H., Van Dijk, J.-W., Daanen, H.A.M., Eijsvogels, T.H.M. Performance and thermoregulation of Dutch Olympic and Paralympic athletes exercising in the heat: Rationale](https://heindaanen.nl/images/korte2021.pdf "Korte2021") [and design of the Thermo Tokyo study: The journal Temperature toolbox, Temperature, DOI: 10.1080/23328940.2021.1925618](https://heindaanen.nl/images/korte2021.pdf "Korte2021")
 * [Folkerts, M.A., Boshuizen, A.W., Gosselink, G., Gerrett, N., Daanen, H.A.M., Gao, C., Toftum, J., Nybo, L., Kingma, B.R.M. Predicted and user perceived heat strain using the ClimApp mobile tool for individualized alert and advice. Climate Risk Management 34 (100381). DOI: 10.1016/j.crm.2021.100381.](https://heindaanen.nl/images/folkerts2021climapp.pdf "Folkerts2021ClimApp")
-* [Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health. DOI: 10.1007/s00420-021-01721-y](https://heindaanen.nl/images/folkerts2021_sex.pdf "Folkerts2021")
 * [Gerrett, N., Alkemade, P., Daanen, H. Re-heat acclimation using exercise or hot water immersion. Medicine & Science in Sports & Exercise, Publish Ahead of Print. DOI: 10.1249/MSS.0000000000002612MSSE.](https://heindaanen.nl/images/gerrett2021.pdf "Gerrett2021")
 * [Kingma, B.R.M., Steenhoff, H., Toftum, J., Daanen, H.A.M., Folkerts, M.A., Gerrett, N., Gao, C., Kuklane, K., Petersson, J., Halder, A., Zuurbier, M., Garland, S.W., Nybo, L. Climapp—integrating personal factors with weather forecasts for individualised warning and guidance on thermal stress (2021) International Journal of Environmental Research and Public Health, 18 (21), art. no. 11317, .](https://heindaanen.nl/images/kingma2021.pdf "Kingma2021")
 * [Klous, L., Folkerts, M., Daanen, H., Gerrett, N. The effect of short and continuous absorbent patch application on local skin temperature underneath (2021) Physiological Measurement, 42 (4), art. no. 045006, .](https://heindaanen.nl/images/klous2021patch.pdf "Klous2021Patch")
