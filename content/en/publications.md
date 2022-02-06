@@ -607,4 +607,4 @@ Daanen, H.A.M. Geert van Beek, KIP 1978.
 
 ## 1968
 
-Daanen, H.A.M. Op de kermis. De schoolklapper 2(2): 6, 1968.
+[Daanen, H.A.M. Op de kermis. De schoolklapper 2(2): 6, 1968.](/images/daanen1968.pdf "daanen1968")
