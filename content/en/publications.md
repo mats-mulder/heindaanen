@@ -6,7 +6,7 @@ category: Academic
 ---
 ## 2022
 
-* [Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health 95:29-258, 2022. DOI: 10.1007/s00420-021-01721-y](/images/folkerts2022_sex.pdf "Folkerts2022")
+* [Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health 95:29-258, 2022. DOI: 10.1007/s00420-021-01721-y](https://heindaanen.nl/images/folkerts2022_sex.pdf "Folkerts2022")
 
 ## 2021
 
@@ -603,8 +603,8 @@ category: Academic
 
 ## 1978
 
-* [Daanen, H.A.M. Geert van Beek, KIP 1978.](/images/daanen1978.pdf "daanen1978")
+* [Daanen, H.A.M. Geert van Beek, KIP 1978.](https://heindaanen.nl/images/daanen1978.pdf "daanen1978")
 
 ## 1968
 
-* [Daanen, H.A.M. Op de kermis. De schoolklapper 2(2): 6, 1968.](/images/daanen1968.pdf "daanen1968")
+* [Daanen, H.A.M. Op de kermis. De schoolklapper 2(2): 6, 1968.](https://heindaanen.nl/images/daanen1968.pdf "daanen1968")
