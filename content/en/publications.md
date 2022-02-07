@@ -599,7 +599,7 @@ category: Academic
 
 ## 1984
 
-* [Daanen, H.A.M. CARA en inspanning (_Cara and exercise_). Thomas 3: 99 - 103, 1984.](/images/daanencara1984.pdf "daanen1984")
+* [Daanen, H.A.M. CARA en inspanning (_Cara and exercise_). Thomas 3: 99 - 103, 1984.](https://heindaanen.nl/images/daanencara1984.pdf "daanen1984")
 
 ## 1978
 
