@@ -7,7 +7,7 @@ category: Academic
 ## 2022
 
 * [Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health 95:29-258, 2022. DOI: 10.1007/s00420-021-01721-y](https://heindaanen.nl/images/folkerts2022_sex.pdf "Folkerts2022")
-* Klous, L., Van Diemen, F., Ruijs, S., Gerrett, N., Daanen, H.A.M., De Weerd, M., Veenstra, B., Levels, K. Efficiency of three cooling methods for hyperthermic military personnel linked to water availability. Applied Ergonomics (2022) 102. https://doi.org/10.1016/j.apergo.2022.103700.
+* [Klous, L., Van Diemen, F., Ruijs, S., Gerrett, N., Daanen, H.A.M., De Weerd, M., Veenstra, B., Levels, K. Efficiency of three cooling methods for hyperthermic military personnel linked to water availability. Applied Ergonomics (2022) 102. https://doi.org/10.1016/j.apergo.2022.103700.](https://heindaanen.nl/images/klous2022.pdf "klous2022")
 
 ## 2021
 
