@@ -14,7 +14,7 @@ category: Public
 ## 2021
 
 * 12/21/2021 Lessons learned from Tokyo, Lode Symposium
-* 11/30/2021[ Hitte, Jaarcongres Wetenschap voor de sportpraktijk](https://heindaanen.nl/public/lectures)
+* 11/30/2021[ Hitte, Jaarcongres Wetenschap voor de sportpraktijk](https://www.aanmelder.nl/jws/sprekers)
 * 09/14/2021 [Warmtehuishouding mens, Science Cafe Leiden](http://sciencecafeleiden.nl/14-september-2021-warm-aanbevolen-over-de-warmtehuishouding-van-de-mens/ "ScienceCafe")
 * 09/07/2021[ Sizing Strategy and Innovation, Modint Seminar Zeist](https://modint.nl/agenda/activiteit/101-modint-sizing-webinar "sizing")
 * 06/15/2021[ Hitte, Congres Hittestress Zuid-Holland](https://www.gezondveilig.nl/nieuws/20210520-eerste-webinar-op-15-juni-hittestress-en-gezondheid "webinar ZuidHolland")
