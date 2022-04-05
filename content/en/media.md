@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [5-4-2022: Reformatorisch dagblad; Verdeelde reacties op koeler kantoor](/images/2022-04-05_reformatorisch_dagblad.pdf "kantoor2")
 * [2-4-2022: NOS; Iets kouder op kantoor](https://nos.nl/artikel/2423614-iets-kouder-op-kantoor-vooral-ouderen-en-vrouwen-zullen-dat-merken "kantoor")
 * [12-1-2022: Libelle (België); koude](https://heindaanen.nl/images/lib52_2021_reg_gezondkou_bas.pdf "LibelleKou")
 * [24-12-2021: Volkskrant: vluchten in het afkoelcentrum](https://heindaanen.nl/images/2021vkafkoel.pdf "afkoel")
