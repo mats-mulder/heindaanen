@@ -6,7 +6,7 @@ category: Public
 
 ---
 * [24-6-2022: De Standaard; kun je van warme drankjes afkoelen in de hitte?](https://heindaanen.nl/images/20220624standaard.jpg "drinken")
-* [3-6-2022: Quest: Koude voeten](/images/quest2022.pdf "quest2022")
+* [3-6-2022: Quest: Koude voeten](https://heindaanen.nl/images/quest2022.pdf "quest2022")
 * [5-4-2022: Reformatorisch dagblad; Verdeelde reacties op koeler kantoor](https://heindaanen.nl/images/2022-04-05_reformatorisch_dagblad.pdf "kantoor2")
 * [2-4-2022: NOS; Iets kouder op kantoor](https://nos.nl/artikel/2423614-iets-kouder-op-kantoor-vooral-ouderen-en-vrouwen-zullen-dat-merken "kantoor")
 * [12-1-2022: Libelle (België); koude](https://heindaanen.nl/images/lib52_2021_reg_gezondkou_bas.pdf "LibelleKou")
