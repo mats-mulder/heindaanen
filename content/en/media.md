@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [18-7-22: The Guardian; Women more at risk from heatwaves](https://www.theguardian.com/society/2022/jul/18/women-greater-risk-heatwaves-men-extreme-weather-study "Guardian")
 * [18-7-22: BNN-VARA; Last van hitte? Zo hou je het hoofd koel.]()
 * [18-7-2022: Nieuwsblad; hittepiek](https://www.nieuwsblad.be/cnt/dmf20220717_97471511 "nieuwblad22")
 * [12-7-2022: NRC; de grote hittegids](https://www.nrc.nl/nieuws/2022/07/12/wat-kun-je-beter-wel-en-niet-doen-als-het-heet-is-a4135834 "NRCHittegids")
