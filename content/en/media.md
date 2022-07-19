@@ -9,6 +9,7 @@ category: Public
 * [18-7-22: BNN-VARA; Last van hitte? Zo hou je het hoofd koel](https://www.bnnvara.nl/kassa/artikelen/last-van-de-hitte-zo-houd-je-je-lichaam-koel "BNN")
 * [18-7-2022: Nieuwsblad; hittepiek](https://www.nieuwsblad.be/cnt/dmf20220717_97471511 "nieuwblad22")
 * [12-7-2022: NRC; de grote hittegids](https://www.nrc.nl/nieuws/2022/07/12/wat-kun-je-beter-wel-en-niet-doen-als-het-heet-is-a4135834 "NRCHittegids")
+* 6-7-2022: Radio Rijnmond; hitte
 * [24-6-2022: De Standaard; kun je van warme drankjes afkoelen in de hitte?](https://heindaanen.nl/images/20220624standaard.jpg "drinken")
 * [3-6-2022: Quest: Koude voeten](https://heindaanen.nl/images/quest2022.pdf "quest2022")
 * [5-4-2022: Reformatorisch dagblad; Verdeelde reacties op koeler kantoor](https://heindaanen.nl/images/2022-04-05_reformatorisch_dagblad.pdf "kantoor2")
