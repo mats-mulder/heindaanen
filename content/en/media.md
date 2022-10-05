@@ -5,6 +5,8 @@ position: 8
 category: Public
 
 ---
+* [4-10-2022: NU.nl; Dit doet koude met je lichaam](https://www.nu.nl/gezondheid/6227737/de-verwarming-nog-niet-aan-dit-doet-de-kou-met-je-lichaam.html "NU.nl")
+* [19-09-2022: NRC; koud douchen](https://www.nrc.nl/nieuws/2022/09/19/om-te-besparen-of-gewoon-tegen-poetin-koud-douchen-is-in-opkomst-a4142386 "NRC douchen")
 * [8-8-2022: De Morgen; de opwarming van de aarde redt levens, maar dat blijft niet duren](https://heindaanen.nl/images/20220808_de-morgen.pdf "Morgen22")
 * [5-8-2022: NEMO kennislink; Waarom de één beter tegen de hitte kan dan de ander](https://www.nemokennislink.nl/publicaties/waarom-de-een-beter-tegen-hitte-kan-dan-de-ander/ "Nemo")
 * [19-7-2022: RTL; Feiten en fabels mbt hitte](https://www.rtlnieuws.nl/nieuws/nederland/artikel/5321787/feiten-en-fabels-over-hitte-warmte-weer-zout-eten-koude-douche "RTL")
