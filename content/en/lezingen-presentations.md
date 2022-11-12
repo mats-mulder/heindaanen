@@ -11,9 +11,23 @@ category: Public
 
 ***
 
+## 2022
+
+11/11/2022 Effect of hitte en koude op prestatie en gezondheid, Symposium Weer en Gezondheid, Nederlandse Vereniging ter Bevordering van de Meteorologie De Bilt (NL)
+
+11/9/2022 Voetbalprestatie in de hitte, bijeenkomst College van Clubartsen en Consultenten, Zeist (NL)
+
+9/10/2022 Thermometry, International Conference of Environmental Ergonomics, Niagara Falls (CND)
+
+6/2/2022 Thermometry, Symposium The Surgical Company (TCS), Deventer (NL)
+
+4/22/2022 Presteren in de hitte, Get Ready Marathon congres, Enschede (NL)
+
 ## 2021
 
-* 12/21/2021 Lessons learned from Tokyo, Lode Symposium
+* 12/21/2021 Lessons learned from Tokyo, 
+
+  Lode Symposium
 * 11/30/2021[ Hitte, Jaarcongres Wetenschap voor de sportpraktijk](https://www.aanmelder.nl/jws/sprekers)
 * 09/14/2021 [Warmtehuishouding mens, Science Cafe Leiden](http://sciencecafeleiden.nl/14-september-2021-warm-aanbevolen-over-de-warmtehuishouding-van-de-mens/ "ScienceCafe")
 * 09/07/2021[ Sizing Strategy and Innovation, Modint Seminar Zeist](https://modint.nl/agenda/activiteit/101-modint-sizing-webinar "sizing")
