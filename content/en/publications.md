@@ -6,6 +6,7 @@ category: Academic
 ---
 ## 2022
 
+* [Alkemade, P., Daanen, H.A.M., Janssen,T.W.J., Broad, E., Goosey-Tolfrey, V.L., Ibusuki, T., Kneepkens, H., Periard, J.D, Eijsvogels, T.M.H. Heat preparedness and exertional heat illness in Paralympic athletes: A Tokyo 2020 survey. Temperature, DOI: 10.1080/23328940.2022.2147364.](https://heindaanen.nl/images/alkemade2022para.pdf "Paralympic")
 * [Alkemade, P., Gerrett, N., Daanen, H.A.M., Eijsvogels, T.M.H, Janssen, T.W.J., Keaney, L.C. Heat acclimation does not negatively affect salivary immunoglobulin-A and self-reported illness symptoms and wellness in recreational athletes. Temperature, DOI: 10.1080/23328940.2022.2088029.](https://heindaanen.nl/images/alkemade2022.pdf "Alkemade2022")
 * [Bolton, R.,Hulshoff, H., Daanen, H.A.M., Van Dieen, J. Effects of mattress support on sleeping position and low‑back pain. Sleep Science and Practice 6(3): 1-8. https://doi.org/10.1186/s41606-022-00073-x.](https://heindaanen.nl/images/bolton2022.pdf "Bolton")
 * [Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health 95:29-258, 2022. DOI: 10.1007/s00420-021-01721-y](https://heindaanen.nl/images/folkerts2022_sex.pdf "Folkerts2022")
