@@ -13,19 +13,16 @@ category: Public
 
 ## 2022
 
-11/11/2022 Effect of hitte en koude op prestatie en gezondheid, Symposium Weer en Gezondheid, Nederlandse Vereniging ter Bevordering van de Meteorologie De Bilt (NL)
-
-11/9/2022 Voetbalprestatie in de hitte, bijeenkomst College van Clubartsen en Consultenten, Zeist (NL)
-
-9/10/2022 Thermometry, International Conference of Environmental Ergonomics, Niagara Falls (CND)
-
-6/2/2022 Thermometry, Symposium The Surgical Company (TCS), Deventer (NL)
-
-4/22/2022 Presteren in de hitte, Get Ready Marathon congres, Enschede (NL)
+* 12/2/2022 Thermofysiologiem Landelijke organisatie van aspirant huisartsen, Tropenmuseum Amsterdam (NL)
+* 11/11/2022 Effect of hitte en koude op prestatie en gezondheid, Symposium Weer en Gezondheid, Nederlandse Vereniging ter Bevordering van de Meteorologie De Bilt (NL)
+* 11/9/2022 Voetbalprestatie in de hitte, bijeenkomst College van Clubartsen en Consultenten, Zeist (NL)
+* 9/10/2022 Thermometry, International Conference of Environmental Ergonomics, Niagara Falls (CND)
+* 6/2/2022 Thermometry, Symposium The Surgical Company (TCS), Deventer (NL)
+* 4/22/2022 Presteren in de hitte, Get Ready Marathon congres, Enschede (NL)
 
 ## 2021
 
-* 12/21/2021 Lessons learned from Tokyo, 
+* 12/21/2021 Lessons learned from Tokyo,
 
   Lode Symposium
 * 11/30/2021[ Hitte, Jaarcongres Wetenschap voor de sportpraktijk](https://www.aanmelder.nl/jws/sprekers)
