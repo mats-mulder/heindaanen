@@ -21,16 +21,16 @@ category: Academic
 
 ## Title
 
-* Full professor in (environmental) exercise physiology, VU University, Amsterdam
+* Full professor in (environmental) exercise physiology, Vrije Universiteit, Amsterdam
 * Director of Sizing Science
 
 ## Education
 
 * Data analytics in R - Advanced Statistics, 2020
-* Ph.D. Medicine, VU University Amsterdam, 1997, Thesis: "Central and peripheral control of finger blood flow in the cold"
+* Ph.D. Medicine, Vrije Universiteit Amsterdam, 1997, Thesis: "Central and peripheral control of finger blood flow in the cold"
 * Medical-Biological Sciences Teaching Degree, 1984
 * Post Doctoral Course Computer Science, 1984
-* [M.Sc. Human Movement Science, VU University](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/departments/human-movement-sciences) Amsterdam, 1978 - 1984
+* [M.Sc. Human Movement Science, Vrije Universiteit](https://vu.nl/en/about-vu/faculties/faculty-of-behavioural-and-movement-sciences/departments/human-movement-sciences) Amsterdam, 1978 - 1984
 * [Carolus Borromeus College High School](http://www.carolus.nl) Helmond, 1970 - 1978
 * Johannes Primary school Mierlo, 1964 - 1970
 
@@ -46,7 +46,7 @@ category: Academic
 
 ## Employment
 
-* 2016 - now Full professor in (environmental) exercise physiology; director of Master education in Human Movement Sciences, VU University Amsterdam
+* 2016 - now Full professor in (environmental) exercise physiology; director of Master education in Human Movement Sciences, head of physiology section, Vrije Universiteit Amsterdam
 * 2010 - now Director of Sizing Science
 * 2013 - 2016 Professor at the Amsterdam Fashion Institute, Amsterdam University of Applied Sciences
 * 2011 - 2016 Principal scientist at TNO
@@ -62,6 +62,7 @@ category: Academic
 
 ## Relevant Professional Affiliations
 
+* Member of the program committee of the [10th European Conference on Protective Clothing](https://ecpc.nipv.nl/ "ECPC"), Arnhem May 9-12, 2023.
 * Member of the scientific committee of the 5th international congress on soldiers'' physical performance Quebec City 2020
 * Chair of the 2019 International Conference on Environmental Ergonomics
 * Lead auditor of Textile research group of Saxion University (dec 2016)
