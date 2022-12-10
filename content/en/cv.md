@@ -63,11 +63,13 @@ category: Academic
 ## Relevant Professional Affiliations
 
 * Member of the program committee of the [10th European Conference on Protective Clothing](https://ecpc.nipv.nl/ "ECPC"), Arnhem May 9-12, 2023.
+* Chair of the jury for thesis award in human factors, Human Factors Netherlands, 2020, 2021, 2022.
+* Member of the jury for most talented student and best thesis, Vrije Universiteit Amsterdam, 2021, 2022.
 * Member of the scientific committee of the 5th international congress on soldiers'' physical performance Quebec City 2020
 * Chair of the 2019 International Conference on Environmental Ergonomics
 * Lead auditor of Textile research group of Saxion University (dec 2016)
 * Chair of NATO Research & Technology group HFM-266 on ''3D body scanning and logistics''
-* Member of the editorial board of ''European Journal of Applied Physiology''
+* Member of the advisory editorial board of ''European Journal of Applied Physiology''
 * Member of the board of the [International Conference on Environmental Ergonomics](http://www.environmental-ergonomics.org)
 * Member of the board of the [WEAR](http://ovrt.nist.gov/projects/wear/) legal body (2003-2013)
 * President of the Legal Body for the International Ergonomics Association (IEA) 2006 conference in Maastricht
