@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* 23-12-2022: Dit is de dag (radio 1); windchill
 * [7-12-2022: NPO2 Atlas: koude](https://www.ntr.nl/Atlas/439/detail/Atlas/VPWON_1340584 "Atlas")
 * [5-12-2022: Radio 1 Belgie; koude](https://radio1.be/lees/is-koude-gezond-voor-het-lichaam "Belgie")
 * [22-10-2022: Volkskrant; koude](https://heindaanen.nl/images/20221022vk1.jpg "VK2022"); [deel2](https://heindaanen.nl/images/20221022vk2.jpg "VK2022 deel2"); [deel3](https://heindaanen.nl/images/20221022vk3.jpg "VK2022 deel 3")
