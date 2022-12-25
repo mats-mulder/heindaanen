@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [24-12-2022: De Standaard; koude](https://www.standaard.be/cnt/dmf20221223_96267229 "Standaard22")
 * 23-12-2022: Dit is de dag (radio 1); windchill
 * [12-12-2022: Nieuwsblad; koude](https://www.nieuwsblad.be/cnt/dmf20221212_96080920 "NieuwbladDec22")
 * [7-12-2022: NPO2 Atlas: koude](https://www.ntr.nl/Atlas/439/detail/Atlas/VPWON_1340584 "Atlas")
