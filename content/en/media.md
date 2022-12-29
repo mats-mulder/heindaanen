@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [24-12-2022: Parool; koude](https://www.parool.nl/nederland/kou-sloop-noodgedwongen-ons-leven-binnen-dit-kunnen-we-erover-leren\~b2a95032/ "Parool2022")
 * [24-12-2022: De Standaard; koude](https://www.standaard.be/cnt/dmf20221223_96267229 "Standaard22")
 * 23-12-2022: Dit is de dag (radio 1); windchill
 * [12-12-2022: Nieuwsblad; koude](https://www.nieuwsblad.be/cnt/dmf20221212_96080920 "NieuwbladDec22")
