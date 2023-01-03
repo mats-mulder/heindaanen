@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [3-1-2023: NRC; kleding](http://heindaanen.nl/images/nrc2023.jpg "NRC2023")
 * [30-12-2022: Volkskrant; nieuwjaarsduik](http://heindaanen.nl/images/vkdec2022.jpg "VKdec22")
 * [24-12-2022: Parool; koude](https://www.parool.nl/nederland/kou-sloop-noodgedwongen-ons-leven-binnen-dit-kunnen-we-erover-leren\~b2a95032/ "Parool2022")
 * [24-12-2022: De Standaard; koude](https://www.standaard.be/cnt/dmf20221223_96267229 "Standaard22")
