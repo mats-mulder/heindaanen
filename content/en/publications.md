@@ -6,7 +6,7 @@ category: Academic
 ---
 ## 2023
 
-* Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.
+* [Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.](https:heindaanen.nl/images/daanen2023.pdf "HeatFlux2023")
 * [Daanen, H.A.M., Van de Steeg, M. Warmte- en koudebelasting. In: Praktijkgids Arbeidsveiligheid 2023, Uitgeverij Vakmedianet.](https://www.bruna.nl/boeken/praktijkgids-arbeidsveiligheid-2023-9789462157880 "boek Veiligheid")
 
 ## 2022
