@@ -70,6 +70,7 @@ category: Academic
 * Lead auditor of Textile research group of Saxion University (dec 2016)
 * Chair of NATO Research & Technology group HFM-266 on ''3D body scanning and logistics''
 * Member of the advisory editorial board of ''European Journal of Applied Physiology''
+* Member of the editorial board of ["Fashion and Textiles"](https://fashionandtextiles.springeropen.com/about/editorial-board "Fashion and Textiles")
 * Member of the board of the [International Conference on Environmental Ergonomics](http://www.environmental-ergonomics.org)
 * Member of the board of the [WEAR](http://ovrt.nist.gov/projects/wear/) legal body (2003-2013)
 * President of the Legal Body for the International Ergonomics Association (IEA) 2006 conference in Maastricht
