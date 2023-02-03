@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [3-2-2023: Volkskrant; Oud en Koud: de winter eist zijn tol](http://heindaanen.nl/images/vk20230203.pdf "VK20230203")
 * [3-1-2023: NRC; kleding](http://heindaanen.nl/images/nrc2023.jpg "NRC2023")
 * [30-12-2022: Volkskrant; nieuwjaarsduik](http://heindaanen.nl/images/vkdec2022.jpg "VKdec22")
 * [24-12-2022: Parool; koude](https://www.parool.nl/nederland/kou-sloop-noodgedwongen-ons-leven-binnen-dit-kunnen-we-erover-leren\~b2a95032/ "Parool2022")
