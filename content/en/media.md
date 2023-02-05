@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [4-2-2023: Volkskrant; Energie uit de zaal](http://heindaanen.nl/images/vk2023feb.pdf "VKfeb23")
 * [3-2-2023: Volkskrant; Oud en Koud: de winter eist zijn tol](http://heindaanen.nl/images/vk20230203.pdf "VK20230203")
 * [3-1-2023: NRC; kleding](http://heindaanen.nl/images/nrc2023.jpg "NRC2023")
 * [30-12-2022: Volkskrant; nieuwjaarsduik](http://heindaanen.nl/images/vkdec2022.jpg "VKdec22")
