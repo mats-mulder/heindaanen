@@ -5,7 +5,9 @@ position: 8
 category: Public
 
 ---
-* [9-2-2023: Noord-Hollands dagblad; 7 vragen over onderkoeling](https://www.noordhollandsdagblad.nl/cnt/dmf20230208_66316299 "NHDagblad")
+* [9-2-2023: Noord-Hollands dagblad; 7 vragen over onderkoeling](http://heindaanen.nl/images/nhdagblad2023.jpg "NHDagblad")
+* [8-2-2023: RTL; Reddingswerk Turkije](https://www.rtlnieuws.nl/nieuws/artikel/5364442/nederlands-reddingsteam-usar-turkije "Reddingswerk")
+* 6-2-2023: Radio1; gasverbruik en koude
 * [4-2-2023: Volkskrant; Energie uit de zaal](http://heindaanen.nl/images/vk2023feb.pdf "VKfeb23")
 * [3-2-2023: Volkskrant; Oud en Koud: de winter eist zijn tol](http://heindaanen.nl/images/vk20230203.pdf "VK20230203")
 * [3-1-2023: NRC; kleding](http://heindaanen.nl/images/nrc2023.jpg "NRC2023")
