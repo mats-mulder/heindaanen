@@ -5,6 +5,7 @@ position: 8
 category: Public
 
 ---
+* [18-2-2023: NRC; Is zweten gezond?](http:heindaanen.nl/images/nrc20230218.pdf "NRC2023")
 * [9-2-2023: Noord-Hollands dagblad; 7 vragen over onderkoeling](http://heindaanen.nl/images/nhdagblad2023.jpg "NHDagblad")
 * [8-2-2023: RTL; Reddingswerk Turkije](https://www.rtlnieuws.nl/nieuws/artikel/5364442/nederlands-reddingsteam-usar-turkije "Reddingswerk")
 * [6-2-2023: Radio1; gasverbruik en koude](https://www.nporadio1.nl/uitzendingen/villa-vdb/2917dd08-10fd-4c43-a1be-49dbe591b07e/2023-02-06-villa-vdb "Radio1_2023") (minuut 17 en verder)
