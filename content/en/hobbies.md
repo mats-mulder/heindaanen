@@ -3,8 +3,9 @@ title: Hobbies
 description: ''
 position: 10
 category: Personal
-
+_template: page
 ---
+
 ## Basketball
 
 Hein loves to play basketball. He is a member of the [http://www.pirates-soesterberg.nl/](http://www.pirates-soesterberg.nl/ "http://www.pirates-soesterberg.nl/")

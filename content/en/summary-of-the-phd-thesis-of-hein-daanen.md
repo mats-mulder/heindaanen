@@ -3,8 +3,9 @@ title: Summary of the PhD thesis of Hein Daanen
 description: ''
 position: 4
 category: Academic
-
+_template: page
 ---
+
 ## Central and peripheral control of finger blood flow in the cold
 
 **Available through Hein Daanen - ISBN 90-9010815-7**

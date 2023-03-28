@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "tinacms dev -c \"nuxt dev\"",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "0.11.0",
+    "@tinacms/cli": "^1.5.0",
     "firebase": "^9.6.3",
-    "nuxt": "2.15.8"
+    "nuxt": "2.15.8",
+    "tinacms": "^1.4.1"
   }
 }

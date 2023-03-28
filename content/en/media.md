@@ -3,8 +3,9 @@ title: Media
 description: ''
 position: 8
 category: Public
-
+_template: page
 ---
+
 * [1-4-2023: New Scientist; Hoe gezond is een ijsbad?](http://heindaanen.nl/images/newscientist2023.pdf "NewScientist")
 * [20-2-2023:RIVM; Geslachtsverschillen in thermoregulatie](https://publicaties.zonmw.nl/klimaat-en-gezondheid/Bij-hittegolven-sterven-relatief-meer-oudere-vrouwen-dan-oudere-mannen/ "RIVM")
 * [18-2-2023: NRC; Is zweten gezond?](http:heindaanen.nl/images/nrc20230218.pdf "NRC2023")

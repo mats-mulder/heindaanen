@@ -2,9 +2,10 @@
 title: Contact
 description: ''
 position: 11
-category: " "
-
+category: ' '
+_template: page
 ---
+
 ## Contact:
 
 Mobile phone: +31 6 86676808

@@ -1,0 +1,7 @@
+fragment PagesParts on Pages {
+  body
+  title
+  description
+  position
+  category
+}
