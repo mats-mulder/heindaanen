@@ -1,0 +1,23 @@
+[
+  {
+    "name": "releases___en",
+    "path": "/releases",
+    "component": "/Users/matsmulder/Documents/Personal/Overbelicht/heindaanen/node_modules/@nuxt/content-theme-docs/src/pages/releases.vue",
+    "chunkName": "pages/releases",
+    "_name": "_13c53482"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/Users/matsmulder/Documents/Personal/Overbelicht/heindaanen/node_modules/@nuxt/content-theme-docs/src/pages/_.vue",
+    "chunkName": "pages/_",
+    "_name": "_a1b15ace"
+  },
+  {
+    "name": "all___en",
+    "path": "/*",
+    "component": "/Users/matsmulder/Documents/Personal/Overbelicht/heindaanen/node_modules/@nuxt/content-theme-docs/src/pages/_.vue",
+    "chunkName": "pages/_",
+    "_name": "_a1b15ace"
+  }
+]

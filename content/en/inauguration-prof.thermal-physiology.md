@@ -3,8 +3,9 @@ title: Inauguration Prof. Thermal Physiology
 description: ''
 position: 5
 category: Academic
-
+_template: page
 ---
+
 ## Warm aanbevolen (in Dutch)
 
 **Speech held at the _Vrije_ Universiteit of Amsterdam, February 27, 2004**

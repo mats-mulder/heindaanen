@@ -3,8 +3,9 @@ title: Family of Hein Daanen
 description: ''
 position: 9
 category: Personal
-
+_template: page
 ---
+
 Hein Daanen is married to Elly Rentes and has 2 children.
 
 As a hobby Hein started to make an inventory of the family members, helped by several others. Now a database is constructed of over 2000 family members.  
