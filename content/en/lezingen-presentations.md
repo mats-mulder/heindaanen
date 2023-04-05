@@ -11,6 +11,18 @@ category: Public
 
 ***
 
+## 2023
+
+* 6/16/2023 Afsluiting Warm Aanbevolen, Amsterdam (NL)
+* 6/15/2023 [De waarde van kennis zit in de toepassing. Symposium bij afscheid Prof. Peter van Harten, Amersfoort (NL)](https://www.aanmelder.nl/150623pvh "Harten")
+* 6/2/2023 [Temperatuur en mens: vriend en vijand? Symposium Stichting Heart2Move, Nieuwegein (NL)](https://heart2move.nl/Educatie/ "hart2023")
+* 5/26/2023 [Effect van hitte en koude op prestatie en gezondheid, Anesthesiologie congres Maastricht (NL)](https://www.anesthesiologie.nl/agenda/anesthesiologendagen-2023-op-25-26-mei "Anesthesiologie")
+* 5/23/2023 [Protecting cold extremities, NATO RT-310 Symposium, Soesterberg (NL](http:/heindaanen.nl/images/flyer-nato-rt-310-symposium.pdf "NATO RT-310")[)](http:/heindaanen.nl/images/flyer-nato-rt-310-symposium.pdf "NATO RT-310")
+* 5/16/2023 Health and Temperature, GGD, Amsterdam (NL)
+* 5/12/2023 Thermometry, ThermoNed, Amsterdam (NL)
+* 3/30/2023 Heat and cooling, Symposium Citius Altius Sanius, Papendal (NL)
+* 3/23/2023 Thermometry, Poster congres Amsterdam Movement Sciences, Amsterdam (NL)
+
 ## 2022
 
 * 12/2/2022 Thermofysiologiem Landelijke organisatie van aspirant huisartsen, Tropenmuseum Amsterdam (NL)
