@@ -8,6 +8,7 @@ category: Academic
 
 * [Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.](https:heindaanen.nl/images/daanen2023.pdf "HeatFlux2023")
 * [Daanen, H.A.M., Van de Steeg, M. Warmte- en koudebelasting. In: Praktijkgids Arbeidsveiligheid 2023, Uitgeverij Vakmedianet.](https://www.bruna.nl/boeken/praktijkgids-arbeidsveiligheid-2023-9789462157880 "boek Veiligheid")
+* [Tsoutsoubi, L., Ioannou, L.G., Alba, B.K., Cheung, S.S., Daanen, H.A.M., Mekjavic, I.B., Flouris, A.D. Central versus peripheral mechanisms of cold-induced vasodilation: a study in the fingers and toes of people with paraplegia. European Journal of Applied Physiology. https://doi.org/10.1007/s00421-023-05175-7.](http:/heindaanen.nl/images/tsoutsoubi2023.pdf "Tsoutsoubi")
 
 ## 2022
 
