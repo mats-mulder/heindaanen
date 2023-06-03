@@ -5,11 +5,10 @@ position: 3
 ---
 ## 2023
 
-* [Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.](https:heindaanen.nl/images/daanen2023.pdf "HeatFlux2023")
-* [Daanen, H.A.M., Van de Steeg, M. Warmte- en koudebelasting. In: Praktijkgids Arbeidsveiligheid 2023, Uitgeverij Vakmedianet.](https://www.bruna.nl/boeken/praktijkgids-arbeidsveiligheid-2023-9789462157880 "boek Veiligheid")
-* Van Harten, T., Kuklane, K., Heus, R. Daanen, H.A.M. Ergonomic and performance differences between firefighter protective clothing systems. Poster at European Protective Clothing Conference, Arnhem 2023.
+* [Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.](https:heindaanen.nl/images/daanen2023.pdf)
+* [Daanen, H.A.M., Van de Steeg, M. Warmte- en koudebelasting. In: Praktijkgids Arbeidsveiligheid 2023, Uitgeverij Vakmedianet.](https://www.bruna.nl/boeken/praktijkgids-arbeidsveiligheid-2023-9789462157880)
+* [Van Harten, T., Kuklane, K., Heus, R. Daanen, H.A.M. Ergonomic and performance differences between firefighter protective clothing systems. Poster at European Protective Clothing Conference, Arnhem 2023.](https://heindaanen.nl/images/hartenposter2023.pdf)
 * [Tsoutsoubi L., Ioannou L.G., Alba B.K., Cheung S.S., Daanen H.A., Mekjavic I.B., Flouris A.D. Central versus peripheral mechanisms of cold-induced vasodilation: a study in the fingers and toes of people with paraplegia European Journal of Applied Physiology. DOI: 10.1007/s00421-023-05175-7.](https://heindaanen.nl/images/tsoutsoubi2023.pdf) 
-*
 
 ## 2022
 
