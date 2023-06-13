@@ -5,7 +5,7 @@ category: Public
 position: 8
 _template: page
 ---
-
+# 2﻿023
 
 * [1﻿2-6-2023: AD; Een zonnesteek is gevaarlijker dan je denkt](https://www.ad.nl/gezond/een-zonnesteek-is-gevaarlijker-dan-je-denkt-zo-herken-en-voorkom-je-het~a5f6b94e/)
 * [1-4-2023: New Scientist; Hoe gezond is een ijsbad?](http://heindaanen.nl/images/newscientist2023.pdf "NewScientist")
@@ -18,6 +18,7 @@ _template: page
 * [3-2-2023: Volkskrant; Oud en Koud: de winter eist zijn tol](http://heindaanen.nl/images/vk20230203.pdf "VK20230203")
 * [3-1-2023: NRC; kleding](http://heindaanen.nl/images/nrc2023.jpg "NRC2023")
 
+# 2﻿022
 
 * [30-12-2022: Volkskrant; nieuwjaarsduik](http://heindaanen.nl/images/vkdec2022.jpg "VKdec22")
 * [24-12-2022: Parool; koude](https://www.parool.nl/nederland/kou-sloop-noodgedwongen-ons-leven-binnen-dit-kunnen-we-erover-leren~b2a95032/ "Parool2022")
@@ -44,6 +45,7 @@ _template: page
 * [2-4-2022: NOS; Iets kouder op kantoor](https://nos.nl/artikel/2423614-iets-kouder-op-kantoor-vooral-ouderen-en-vrouwen-zullen-dat-merken "kantoor")
 * [12-1-2022: Libelle (België); koude](https://heindaanen.nl/images/lib52_2021_reg_gezondkou_bas.pdf "LibelleKou")
 
+# 2﻿021
 
 * [24-12-2021: Volkskrant: vluchten in het afkoelcentrum](https://heindaanen.nl/images/2021vkafkoel.pdf "afkoel")
 * [16-11-2021: Universiteit van Vlaanderen podcast: koud douchen](https://www.universiteitvanvlaanderen.be/podcast/is-een-ijskoude-douche-in-de-ochtend-nou-echt-zo-gezond "Vlaanderen2021")
@@ -66,6 +68,7 @@ _template: page
 * 8-2-2021; Radio 1 België; oversterfte door koude
 * 6-2-2021; NRC; het ritme van koude vingers
 
+# 2﻿020
 
 * 22-12-2020; Parool.nl; Hoe kouder je lichaam is hoe warmer de thee kan zijn om op te warmen
 * 15-12-2020; Nieuwblad; eens een koukleum, altijd een koukleum?
@@ -89,7 +92,9 @@ _template: page
 * 12-5-2020; RTL; Temperatuurmeting bij de ingang tegen corona - maar wat als je net moest rennen?
 * 26-3-2020; AD; koud douchen
 * 12-3-2020; Universiteit van Nederland; [is een ijskoude douche in de ochtend nou echt zo gezond?](https://www.youtube.com/watch?v=4Ck5Rn4l03s "Douche")
-*
+
+# 2﻿019
+
 * 14-12-2019; Avro Tros Radar radio 1; verwarmende kleding
 * 5-10-2019; NRC; Wat gebeurde er met Mathieu van der Poel
 * 27-8-2019; NRC.nl; agressie in zwembaden
@@ -101,7 +106,9 @@ _template: page
 * 22-6-2019; Volkskrant; koude-front: hoe nuttig is een ventilator
 * 21-6-2019; NOS.nl; Warm, warmer, warmst: dinsdag en woensdag flinke pieken in temperatuur
 * 12-1-2019; Volkskrant; moe je je jas binnen of buiten aan doen in de kou
-*
+
+# 2﻿018
+
 * 14-12-2018; NOS.nl; Jouw 'gratis' retourzending is niet zo gratis als je misschien denkt
 * 17-8-2018; Volkskrant; Hittegolf eist relatief weinig slachtoffers – hoe kan dat?
 * 7-8-2018; Radio 1 vandaag; hitte
@@ -116,7 +123,9 @@ _template: page
 * 26-5-2018; Limburger; hitte
 * 24-5-2018; RTL Editie NL; Zweet je naar goud
 * 4-5-2018; Parool; Sporters bereiden zich op de VU voor op hitte Tokio
-*
+
+# 2﻿017
+
 * 18-12-2017; De Standaard; koude
 * 9-12-2017; Volkskrant; warme baden
 * 30-9-2017; NRC; hitte formule1
@@ -130,7 +139,9 @@ _template: page
 * 30-1-2017; Volkskrant; warmt een kop hete chocolademelk ons weer lekker op?
 * 27-1-2017; AD en locale kranten; cryotherapie
 * 17-1-2017; Radio 1; koude
-*
+
+# 2﻿016
+
 * 1-9-2016; Quest; Sterven aan oververhitting
 * 23-8-2016; Omroep max; hitte in Nederland
 * 26-7-2016; Radio 1; hitte in Rio
@@ -143,7 +154,9 @@ _template: page
 * 31-3-2016; De kennis van nu; precooling
 * 21-3-2016; Bright TV, RTL-Z; kleding op maat
 * 30-1-2016; RTL4 nieuws; ijszwemmen
-*
+
+# 2﻿015
+
 * 18-7-2015; Volkskrant; zweten en vochtverlies
 * 4-7-2015; Parool; hitte
 * 4-7-2015; Radio1; hitte en drinken
@@ -161,7 +174,9 @@ _template: page
 * 24-1-2015; NRC; Ijszwemmen
 * 18-1-2015; Radio 2; Jas binnen aantrekken
 * 1-1-2015; Radio West; nieuwjaarsduik
-*
+
+# 2﻿014
+
 * 15-12-2014; BNR nieuwsradio; slimme kleding
 * 8-12-2014; RTL in het land; kou naar gasstoring
 * 11-11-2014; Omroep West website; straks minder koud als je nu de trui uitstelt
@@ -176,7 +191,9 @@ _template: page
 * 20-1-2014; Volkskrant; Koud tot op het bot
 * 16-1-2014; Parool; mode
 * 13-1-2014; AD; koude
-*
+
+# 2﻿013
+
 * 18-12-2013; AdValvas; Bevangen door de poolkoorts
 * 14-12-2013; NRC-next; maatvoering vrouwenkleding
 * 12-12-2013; Algemeen Dagblad; Kouderecord: -93,2°C
@@ -185,7 +202,9 @@ _template: page
 * 22-7-2013; RTL editie NL; warmte
 * 22-7-2013; Een vandaag; hitte
 * 20-7-2013; NRC-Next; warmte
-*
+
+# 2﻿012
+
 * 1-12-2012; Klokhuis; wakduiken - gekozen in Top10 van 25 jaar Klokhuis
 * 10-10-2012; Hoezo Radio; onderkoeling
 * 1-10-2012; Radio 1; is wintersport gezond?
@@ -198,11 +217,15 @@ _template: page
 * 1-2-2012; RTL in het land; koude
 * 1-2-2012; SBS Hart van Nederland; koude
 * 18-1-2012; BNN Proefkonijnen; heeft het zin om zweet te drinken?
-*
+
+# 2﻿011
+
 * 9-11-2011; NRC-Next; mag je een winterjas al in de herfst aan?
 * 12-7-2011; Volkskrant; help wat is het heet in de stad
 * 29-4-2011; NRC-Next; hitte en agressie
-*
+
+# 2﻿010
+
 * 2-12-2010; Radio 1; koude in Nederland
 * 6-11-2010; Radio 1; paspoortfoto's
 * 5-11-2010; Volkskrant; Niet elke Nederlander heeft een gezicht dat op het paspoort past
@@ -234,7 +257,9 @@ _template: page
 * 8-1-2010; SBS6 Hart van Nederland; koude
 * 8-1-2010; Algemeen Dagblad; koude
 * 8-1-2010; Radio Nostalgia (B); koude
-*
+
+# 2﻿009
+
 * 21-12-2009; Radio 1; koude
 * 10-10-2009; Eindhovens Dagblad; onderzoek Marathon Eindhoven
 * 16-9-2009; Teleac Radio; hoe zweten mensen
@@ -245,7 +270,9 @@ _template: page
 * 13-1-2009; Klokhuis; wakduiken
 * 6-1-2009; Radio 1; koude
 * 6-1-2009; Jeugdjournaal; koude
-*
+
+# 2﻿008
+
 * 30-12-2008; Trouw; koude
 * 22-12-2008; Een vandaag; commentaar bij portret van Wim Hof
 * 11-12-2008; Hoezo Radio; Over koude
@@ -254,7 +281,9 @@ _template: page
 * 1-6-2008; Weer; Temperatuur zegt niet alles over warmtebalans
 * 1-5-2008; Grip4; Hoe moet een onderkoelde patient worden behandeld?
 * 12-2-2008; Transport&Opslag; Eskimo's gezocht
-*
+
+# 2﻿007
+
 * 22-10-2007; RTL-4 TV; Koude in Siberie
 * 5-10-2007; Teleac Radio; Waar komen de tintelingen vandaan als mensen sneeuw hebben aangeraakt
 * 4-10-2007; NRC Next; Waar halen mensen hun lichaamswarmte vandaan
@@ -264,7 +293,9 @@ _template: page
 * 1-6-2007; Snap jij het; ik wel! boek van TNO met kindervragen
 * 14-5-2007; Trouw; Wat is de ideale temperatuur van zwemwater
 * 8-2-2007; Women sized for comfort after 80 years; The Advertiser (AUS)
-*
+
+# 2﻿006
+
 * 7-12-2006; Talpa TV; Man/Vrouw
 * 24-11-2006; Klokhuis; Zweten
 * 1-10-2006; Plus Magazine; drie vragen over koude
@@ -274,14 +305,18 @@ _template: page
 * 1-5-2006; Movemens; Bewegingsonderzoek bij TNO
 * 6-4-2006; De Morgen (Belgie); Kledingmaatvoering
 * 19-1-2006; RTL-4 TV; Koudeproblematiek in Moskou
-*
+
+# 2﻿005
+
 * 22-12-2005; Teleac Radio; Koudebeleving in zomer en winter
 * 1-12-2005; TNO Magazine; 3D technologie voor beschermingsmiddelen en gezichtsherkenning
 * 1-12-2005; TNO Magazine; succesvolle kennisoverdracht Thermofysiologie
 * 7-7-2005; Radio M; Koorts
 * 7-3-2005; TV Amersfoort; Desertrun
 * 3-2-2005; Radio M; koude
-*
+
+# 2﻿004
+
 * 21-12-2004; Eindhovens dagblad; Heeft maat M overal dezelfde afmeting?
 * 3-12-2004; BNN radio; Desertrun
 * 1-8-2004; Plus Magazine; 12 vragen over dorst
@@ -290,7 +325,9 @@ _template: page
 * 28-2-2004; Trouw; Oorthermometer dikwijls niet betrouwbaar
 * 28-2-2004; Algemeen Dagblad; Oorthermometers onbetrouwbaar
 * 28-2-2004; Amersfoortse Courant en Utrechts Nieuwsblad; Oorthermometer niet betrouwbaar
-*
+
+# 2﻿003
+
 * 1-12-2003; Helemaal Thuis (Essent); Zo werkt uw interne thermostaat
 * 29-11-2003; Willem Wever; Waarom zweten we?
 * 1-7-2003; KnipMode; Lengte van mannen (pag. 46)
@@ -302,7 +339,9 @@ _template: page
 * 22-1-2003; AVRO Gezondheidsplein TV; Heat packs
 * 1-1-2003; Plus Magazine; 8 vragen over warm blijven
 * 1-1-2003; Arbo; Arbodisciplines spelen in op veranderingen
-*
+
+# 2﻿002
+
 * 3-12-2002; Regionale omroep Arnhem; Ergonomie
 * 1-11-2002; Contec Nieuws; Kleding op maat
 * 30-9-2002; Radio Nederland Wereldomroep; hitte en kou
@@ -310,16 +349,22 @@ _template: page
 * 18-1-2002; Groninger Dagblad; Ondershirt kan thuisblijven
 * 5-1-2002; NRC; Bloedvatspel
 * 1-1-2002; Arbouw Pijlers; Goed kleden is 'simpel eigenlijk'
-*
+
+# 2﻿001
+
 * 19-12-2001; Klokhuis; Nieuw textiel
 * 28-6-2001; Nederlands Dagblad; Mag het een maatje meer zijn?
 * 27-6-2001; NRC; Te lang, te kort, te wijd of te krap
 * 26-6-2001; NRC; Maat 88 wordt normaal
 * 1-4-2001; Doorkijk 42(2): 16; Maatkleding voor Iedereen door T. Epping
-*
+
+# 2﻿000
+
 * 1-7-2000; Contec update 3; TNO legt database aan van lichaamsmaten
 * 12-4-2000; KRO ontbijt TV; NedScan
-*
+
+# 1﻿999
+
 * 4-8-1999; Nederlands Dagblad; Hitte en prestatie
 * 4-8-1999; Nederlands Dagblad; Warmte zorgt in het verkeer voor verhitte gemoederen
 * 1-7-1999; Fiets; Barstende koppijn of een barst in je kop
@@ -329,7 +374,9 @@ _template: page
 * 16-1-1999; FEM De Week03; Hollandse lijven in kaart gebracht
 * 13-1-1999; Stern TV (RTL+); Lichaamsscanning
 * 7-1-1999; TROS Radar op 5 (radio); Lichaamsmaten
-*
+
+# 1﻿998
+
 * 22-12-1998; Konrad (Duitsland); Lichaamsmaten
 * 1-11-1998; Contec Nieuws; Batman returns (over lichaamsscanning)
 * 24-9-1998; Facts (Zwitserland); Das Mass alle Dinge
@@ -342,7 +389,9 @@ _template: page
 * 26-7-1998; Uniform-magazine; Bodyscan-eindelijk de juiste maat
 * 25-7-1998; Utrechts Nieuwsblad; Digitaal de kledingmaat opnemen
 * 11-7-1998; Leeuwarder Courant; Nederlander de maat genomen
-*
+
+# 1﻿997
+
 * 15-11-1997; Parool; De lange mens
 * 1-11-1997; Business; De Werkplek
 * 27-10-1997; Radar (TROS TV); Oorthermometer
@@ -355,21 +404,33 @@ _template: page
 * 29-1-1997; Amersfoortse Courant; Tot op de millimeter
 * 29-1-1997; Gooi en Eemlander; TNO levert maatwerk ..
 * 4-1-1997; 2 Vandaag; Kou tijdens de elfstedentocht
-*
+
+# 1﻿996
+
 * 4-2-1996; NCRV TV; Zinderen, een programma over zintuigen
-*
+
+# 1﻿995
+
 * 18-7-1995; Technische Revue; TNO-TM weet veel van werkplekinrichting
-*
+
+# 1﻿994
+
 * 15-2-1994; Reformatorisch Db; Aangenaam, mits gekleed in wollen ondergoed
-*
+
+# 1﻿993
+
 * 24-11-1993; NOS Vroeg op 5 Radio; Effect van kou op de mens
 * 30-10-1993; Gelders Dagblad; Triathlon: Pas op voor 'afterdrop' in eerste fietskm
 * 22-10-1993; Intermediair; Uitglijden bij Tineke
 * 27-9-1993; Autoweek; Benzineverbruik auto's
-*
+
+# 1﻿992
+
 * 16-1-1992; KRO-radio; Kou en gezondheid
 * 5-1-1992; TNO-jaarjournaal; Stuk uit EO-tijdsein
-*
+
+# 1﻿991
+
 * 31-12-1991; Haagse Courant; Goede conditie helpt bij weerbaarheid tegen kou
 * 9-5-1991; NCRV-radio; Extremen: warmte en kou
 * 14-2-1991; KRO-radio; Gezondheid - een zorg
@@ -378,7 +439,11 @@ _template: page
 * 7-2-1991; EO-Tijdsein TV; Onderzoek naar kou
 * 7-2-1991; NOS-Aktueel TV; Uitleg koude-invloed bij finish elfstedentocht
 * 6-2-1991; NRC; Gedrag is enig wapen van lichaam tegen kou
-*
+
+# 1﻿989
+
 * 26-7-1989; Volkskrant; Snelwandelen onzichtbaar voor blote oog
-*
+
+# 1﻿988
+
 * [17-11-1988; Veronica TV: Fitrace; Werking van de spieren](https://heindaanen.nl/images/fitracekort_0.mp4 "1988Fitrace")
