@@ -17,7 +17,8 @@ _template: page
 * [4-2-2023: Volkskrant; Energie uit de zaal](http://heindaanen.nl/images/vk2023feb.pdf "VKfeb23")
 * [3-2-2023: Volkskrant; Oud en Koud: de winter eist zijn tol](http://heindaanen.nl/images/vk20230203.pdf "VK20230203")
 * [3-1-2023: NRC; kleding](http://heindaanen.nl/images/nrc2023.jpg "NRC2023")
-*
+
+
 * [30-12-2022: Volkskrant; nieuwjaarsduik](http://heindaanen.nl/images/vkdec2022.jpg "VKdec22")
 * [24-12-2022: Parool; koude](https://www.parool.nl/nederland/kou-sloop-noodgedwongen-ons-leven-binnen-dit-kunnen-we-erover-leren~b2a95032/ "Parool2022")
 * [24-12-2022: De Standaard; koude](https://www.standaard.be/cnt/dmf20221223_96267229 "Standaard22")
@@ -42,7 +43,8 @@ _template: page
 * [5-4-2022: Reformatorisch dagblad; Verdeelde reacties op koeler kantoor](https://heindaanen.nl/images/2022-04-05_reformatorisch_dagblad.pdf "kantoor2")
 * [2-4-2022: NOS; Iets kouder op kantoor](https://nos.nl/artikel/2423614-iets-kouder-op-kantoor-vooral-ouderen-en-vrouwen-zullen-dat-merken "kantoor")
 * [12-1-2022: Libelle (België); koude](https://heindaanen.nl/images/lib52_2021_reg_gezondkou_bas.pdf "LibelleKou")
-*
+
+
 * [24-12-2021: Volkskrant: vluchten in het afkoelcentrum](https://heindaanen.nl/images/2021vkafkoel.pdf "afkoel")
 * [16-11-2021: Universiteit van Vlaanderen podcast: koud douchen](https://www.universiteitvanvlaanderen.be/podcast/is-een-ijskoude-douche-in-de-ochtend-nou-echt-zo-gezond "Vlaanderen2021")
 * [10-11-2021: Op Pad; Feit of fabel - via het hoofd verdwijnt de meeste warmte](https://www.oppad.nl/feit-of-fabel-15-via-het-hoofd-verdwijnt-de-meeste-warmte "hoofdwarmte")
@@ -63,7 +65,8 @@ _template: page
 * [17-3-2021; Parool; gevaren van koudwaterzwemmen](https://www.parool.nl/nederland/een-koude-duik-als-bescherming-tegen-covid-immunologen-betwijfelen-het~b20e1a04/)
 * 8-2-2021; Radio 1 België; oversterfte door koude
 * 6-2-2021; NRC; het ritme van koude vingers
-*
+
+
 * 22-12-2020; Parool.nl; Hoe kouder je lichaam is hoe warmer de thee kan zijn om op te warmen
 * 15-12-2020; Nieuwblad; eens een koukleum, altijd een koukleum?
 * 24-10-2020; Kassa; [Thermometrie](https://www.bnnvara.nl/kassa/artikelen/dure-onbetrouwbare-thermometers-vliegen-de-winkel-uit "Kassa2020")
