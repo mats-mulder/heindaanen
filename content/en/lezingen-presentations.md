@@ -13,6 +13,8 @@ _template: page
 
 ## 2023
 
+* [6﻿/27/2023 Heet maar bewoonbaar. Symposium Hitte in de Stad: hete hangijzers. HvA, Amsterdam (NL)](https://www.hva.nl/kc-techniek/gedeelde-content/contentgroep/klimaatbestendige-stad/symposia/symposium-2023-06/hittesymposium.html)
+* [6﻿/15/2023 Toegepast Wetenschappelijk Onderzoek. Afscheidssymposium Prof. Dr. P. Van Harten. GGZ Centraal, Amersfoort (NL).](https://www.aanmelder.nl/150623pvh)
 * [6/2/2023 Temperatuur en mens: vriend en vijand? 15e wetenschappelijk symposium Stichting Heart2Move, Nieuwegein (NL)](https://heart2move.nl/Educatie/)
 * [5﻿/26/2023 Het effect van hitte en koude op prestatie en gezondheid. Anaesthesiologiecongres MECC, Maastricht (NL)](https://www.anesthesiologie.nl/voor-leden/anesthesiologendagen-2023/gebied-wetenschap-en-innovatie/)
 * [5﻿/23/2023 Protection cold extremities. NATO RT-310 symposium, Soesterberg (NL)](https://heindaanen.nl/images/flyer-nato-rt-310-symposium.pdf)
