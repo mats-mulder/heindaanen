@@ -1,9 +1,8 @@
 ---
 title: CV
-description: ''
-position: 2
+description: ""
 category: Academic
-
+position: 2
 ---
 ## Name
 
@@ -46,15 +45,17 @@ category: Academic
 
 ## Employment
 
-* 2016 - now Full professor in (environmental) exercise physiology; director of Master education in Human Movement Sciences, head of physiology section, Vrije Universiteit Amsterdam
+* 2016 - now Full professor in (environmental) exercise physiology, Vrije Universiteit Amsterdam
 * 2010 - now Director of Sizing Science
+* 2﻿016 - 2023 Director of Master education in Human Movement Sciences, Vrije Unversiteit Amsterdam
+* 2﻿016 - 2023 Head of physiology section, Vrije Universiteit Amsterdam
 * 2013 - 2016 Professor at the Amsterdam Fashion Institute, Amsterdam University of Applied Sciences
 * 2011 - 2016 Principal scientist at TNO
 * 2003 - 2016 Professor in Thermal Physiology (part-time) at the Faculty of Human Movement Science, VU University Amsterdam
 * 2003 - 2008 Head of the department of Human Performance, TNO Human Factors
 * 1998 - 2003 Research coordinator of the Thermal Physiology group; Acting head of the Dept. of Work Environment
 * 1996 Collaborative research at the Computerized Anthropometric Research Laboratories of Wright Patterson Air Force Base (OH, USA)
-* 1995 Collaborative research at DRDC Toronto ([https://en.wikipedia.org/wiki/DRDC_Toronto](https://en.wikipedia.org/wiki/DRDC_Toronto "https://en.wikipedia.org/wiki/DRDC_Toronto")) (Canada)
+* 1995 Collaborative research at DRDC Toronto ([https://en.wikipedia.org/wiki/DRDC_Toronto](https://en.wikipedia.org/wiki/DRDC_Toronto "https\://en.wikipedia.org/wiki/DRDC_Toronto")) (Canada)
 * 1992 - 1995 Research coordinator of the Workplace ergonomics group
 * 1990 - 2016 Research Scientist, TNO
 * 1985 - 1990 Research Scientist and manager at the Orthopaedic Laboratory, State University Leiden
