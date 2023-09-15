@@ -5,7 +5,7 @@ position: 3
 ---
 ## 2023
 
-* [Alkemade, P., De Korte, J.Q., Bongers, C.W.G., Daanen, H.A.M., Hopman, M.T.E., Janssen, T.W.J., Eijsvogels, T.M.H. Humid Heat Equally Impairs Maximal Exercise Performance in Elite Para-Athletes and Able-Bodied Athletes. Medicine & Science in Sports & Exercise.](https://heindaanen.nl/images/alkemade2023humid.pdf)
+* ﻿Alkemade, P., De Korte, J.Q., Bongers, C.W.G., Daanen, H.A.M., Hopman, M.T.E., Janssen, T.W.J., Eijsvogels, T.M.H. Humid Heat Equally Impairs Maximal Exercise Performance in Elite Para-Athletes and Able-Bodied Athletes. Medicine & Science in Sports & Exercise 55 (10): 1835 - 1845
 * [Alkemade, P., Gerrett, N., Daanen, H.A.M., Eijsvogels, T.M.H., Janssen, T.W.J, Keaney, L.C. Heat acclimation does not negatively affect salivary immunoglobulin-A and self-reported illness symptoms and wellness in recreational athletes. Temperature, 9:4, 331-343, DOI: 10.1080/23328940.2022.2088029](https://heindaanen.nl/images/alkemade2023salivary.pdf)
 * [Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.](https:heindaanen.nl/images/daanen2023.pdf)
 * [Daanen, H.A.M., Van de Steeg, M. Warmte- en koudebelasting. In: Praktijkgids Arbeidsveiligheid 2023, Uitgeverij Vakmedianet.](https://www.bruna.nl/boeken/praktijkgids-arbeidsveiligheid-2023-9789462157880)
