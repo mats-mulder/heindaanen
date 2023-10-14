@@ -6,6 +6,7 @@ position: 3
 ## 2023
 
 * ﻿[Alkemade, P., De Korte, J.Q., Bongers, C.W.G., Daanen, H.A.M., Hopman, M.T.E., Janssen, T.W.J., Eijsvogels, T.M.H. Humid Heat Equally Impairs Maximal Exercise Performance in Elite Para-Athletes and Able-Bodied Athletes. Medicine & Science in Sports & Exercise 55 (10): 1835 - 1845](https://heindaanen.nl/images/alkemade2023humid.pdf)
+* Alkemade, P., Daanen, H.A.M., Janssen,T.W.J., Broad, E., Goosey-Tolfrey, V.L., Ibusuki, T., Kneepkens, H., Periard, J.D, Eijsvogels, T.M.H. Heat preparedness and exertional heat illness in Paralympic athletes: A Tokyo 2020 survey. Temperature 10:2, 264-275, DOI: 10.1080/23328940.2022.2147364.
 * [Alkemade, P., Gerrett, N., Daanen, H.A.M., Eijsvogels, T.M.H., Janssen, T.W.J, Keaney, L.C. Heat acclimation does not negatively affect salivary immunoglobulin-A and self-reported illness symptoms and wellness in recreational athletes. Temperature, 9:4, 331-343, DOI: 10.1080/23328940.2022.2088029](https://heindaanen.nl/images/alkemade2023salivary.pdf)
 * [Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.](https:heindaanen.nl/images/daanen2023.pdf)
 * [Daanen, H.A.M., Van de Steeg, M. Warmte- en koudebelasting. In: Praktijkgids Arbeidsveiligheid 2023, Uitgeverij Vakmedianet.](https://www.bruna.nl/boeken/praktijkgids-arbeidsveiligheid-2023-9789462157880)
@@ -15,7 +16,6 @@ position: 3
 ## 2022
 
 * [Alkemade, P., Daanen, H.A.M., Janssen,T.W.J., Broad, E., Goosey-Tolfrey, V.L., Ibusuki, T., Kneepkens, H., Periard, J.D, Eijsvogels, T.M.H. Heat preparedness and exertional heat illness in Paralympic athletes: A Tokyo 2020 survey. Temperature, DOI: 10.1080/23328940.2022.2147364.](https://heindaanen.nl/images/alkemade2022para.pdf "Paralympic")
-* [Alkemade, P., Gerrett, N., Daanen, H.A.M., Eijsvogels, T.M.H, Janssen, T.W.J., Keaney, L.C. Heat acclimation does not negatively affect salivary immunoglobulin-A and self-reported illness symptoms and wellness in recreational athletes. Temperature, DOI: 10.1080/23328940.2022.2088029.](https://heindaanen.nl/images/alkemade2022.pdf "Alkemade2022")
 * [Bolton, R.,Hulshoff, H., Daanen, H.A.M., Van Dieen, J. Effects of mattress support on sleeping position and low‑back pain. Sleep Science and Practice 6(3): 1-8. https://doi.org/10.1186/s41606-022-00073-x.](https://heindaanen.nl/images/bolton2022.pdf "Bolton")
 * [Folkerts, M.A., Bröde, P., Botzen, W.J.W., Martinius, M.L., Gerrett, N.M., Harmsen, C.N., Daanen, H.A.M. Sex diferences in temperature‑related all‑cause mortality in the Netherlands. International Archives of Occupational and Environmental Health 95:29-258, 2022. DOI: 10.1007/s00420-021-01721-y](https://heindaanen.nl/images/folkerts2022_sex.pdf "Folkerts2022")
 * [Heus, R., Kingma, B.R.M., Van Berlo, B.M.A., Mol, D., Daanen, H.A.M., Kuklane, K. The Protective Performance of Process Operators’ Protective Clothing and Exposure Limits under Low Thermal Radiation Conditions. Biology 2022, 11, 1222. https://doi.org/10.3390/ biology11081222.](https://heindaanen.nl/images/heus2022.pdf "Heus2022")
