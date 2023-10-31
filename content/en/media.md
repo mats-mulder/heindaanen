@@ -11,7 +11,7 @@ _template: page
 * [](<<iframe src="https://podcastluisteren.nl/embed/Alledaagse-Vragen-218-Kun-je-wennen-aan-het-weer-S05" height="170px" width="100%" style="width: 1px; min-width: 100%; border: 1px dashed rgba(0,0,0,0.1); border-radius: 10px" frameborder="0" scrolling="no" loading="lazy"></iframe>>)[1﻿9-10-2023: Telegraaf; Hebben vrouwen het echt sneller koud dan mannen?](https://www.telegraaf.nl/vrouw/1254983944/hebben-vrouwen-het-echt-sneller-koud-dan-mannen)
 * [2﻿7-6-2023: Echo; Le corps humain va-t-il s'adapter à la chaleur ?](https://www.lesechos.fr/idees-debats/editos-analyses/le-corps-humain-va-t-il-sadapter-a-la-chaleur-1954015)
 * [1﻿2-6-2023: AD; Een zonnesteek is gevaarlijker dan je denkt](https://www.ad.nl/gezond/een-zonnesteek-is-gevaarlijker-dan-je-denkt-zo-herken-en-voorkom-je-het~a5f6b94e/)
-* [1﻿9-5-2023: BNN; alledaagsevragen Podcast hitte](https://podcastluisteren.nl/embed/Alledaagse-Vragen-101-Wat-is-de-maximale-hitte-die-een-mens-kan-overleven-S05)
+* 1﻿9-5-2023: BNN; alledaagsevragen Podcast hitte
 * [1-4-2023: New Scientist; Hoe gezond is een ijsbad?](http://heindaanen.nl/images/newscientist2023.pdf "NewScientist")
 * [20-2-2023:RIVM; Geslachtsverschillen in thermoregulatie](https://publicaties.zonmw.nl/klimaat-en-gezondheid/Bij-hittegolven-sterven-relatief-meer-oudere-vrouwen-dan-oudere-mannen/ "RIVM")
 * [18-2-2023: NRC; Is zweten gezond?](http:heindaanen.nl/images/nrc20230218.pdf "NRC2023")
