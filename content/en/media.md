@@ -7,7 +7,7 @@ _template: page
 ---
 # 2﻿023
 
-* [3﻿0-10-2023: BNN; alledaagfsevragen Podcast - Kun je wennen aan het weer](<<iframe src="https://podcastluisteren.nl/embed/Alledaagse-Vragen-218-Kun-je-wennen-aan-het-weer-S05" height="170px" width="100%" style="width: 1px; min-width: 100%; border: 1px dashed rgba(0,0,0,0.1); border-radius: 10px" frameborder="0" scrolling="no" loading="lazy"></iframe>>)
+* [3﻿0-10-2023: BNN; alledaagfsevragen Podcast - Kun je wennen aan het weer](https://podcastluisteren.nl/embed/Alledaagse-Vragen-218-Kun-je-wennen-aan-het-weer-S05)
 * [](<<iframe src="https://podcastluisteren.nl/embed/Alledaagse-Vragen-218-Kun-je-wennen-aan-het-weer-S05" height="170px" width="100%" style="width: 1px; min-width: 100%; border: 1px dashed rgba(0,0,0,0.1); border-radius: 10px" frameborder="0" scrolling="no" loading="lazy"></iframe>>)[1﻿9-10-2023: Telegraaf; Hebben vrouwen het echt sneller koud dan mannen?](https://www.telegraaf.nl/vrouw/1254983944/hebben-vrouwen-het-echt-sneller-koud-dan-mannen)
 * [2﻿7-6-2023: Echo; Le corps humain va-t-il s'adapter à la chaleur ?](https://www.lesechos.fr/idees-debats/editos-analyses/le-corps-humain-va-t-il-sadapter-a-la-chaleur-1954015)
 * [1﻿2-6-2023: AD; Een zonnesteek is gevaarlijker dan je denkt](https://www.ad.nl/gezond/een-zonnesteek-is-gevaarlijker-dan-je-denkt-zo-herken-en-voorkom-je-het~a5f6b94e/)
