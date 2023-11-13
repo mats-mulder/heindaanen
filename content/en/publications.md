@@ -14,6 +14,7 @@ position: 3
 * [Tsoutsoubi L., Ioannou L.G., Alba B.K., Cheung S.S., Daanen H.A., Mekjavic I.B., Flouris A.D. Central versus peripheral mechanisms of cold-induced vasodilation: a study in the fingers and toes of people with paraplegia European Journal of Applied Physiology. DOI: 10.1007/s00421-023-05175-7.](https://heindaanen.nl/images/tsoutsoubi2023.pdf) 
 * [Weller, R.S., Daanen, H.A.M., McClintock, R.J., Roberts, N.A., Dunn, T.L., Jones, D.M. Cold‑induced vasodilation during sequential immersions of the hand. European Journal of Applied Physiology
   https://doi.org/10.1007/s00421-023-05304-2.](https://heindaanen.nl/images/weller2023.pdf)
+* Wibowo, R., Viet, D., Quartucci, C., Koller, D., Daanen, H.A.M., Nowak, D., Bose-O´Reilly, S., Rakete, S. Effects of heat and personal protective equipment on thermal strain in healthcare workers - Part B: Application of wearable sensors to observe heat strain among healthcare workers under controlled conditions. International Archives of Occupational and Environmental Health. https://doi.org/10.1007/s00420-023-02022-2.
 
 ## 2022
 
