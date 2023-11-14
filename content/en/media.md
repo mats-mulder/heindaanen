@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿023
 
+* [1﻿1-11-2023: AD, Parool; Regen is gezond](https://heindaanen.nl/images/regen-is-gezond.pdf)
 * [1﻿0-11-2023: Radio 1 VRT; koud douchen](https://radio1.be/luister/select/zijn-er-nog-vragen/is-koud-douchen-echt-goed-voor-je-immuunsysteem)
 * [3﻿0-10-2023: BNN; alledaagsevragen Podcast - Kun je wennen aan het weer](https://podcastluisteren.nl/embed/Alledaagse-Vragen-218-Kun-je-wennen-aan-het-weer-S05)
 * [1﻿9-10-2023: Telegraaf; Hebben vrouwen het echt sneller koud dan mannen?](https://www.telegraaf.nl/vrouw/1254983944/hebben-vrouwen-het-echt-sneller-koud-dan-mannen)
