@@ -7,6 +7,8 @@ _template: page
 ---
 # 2﻿023
 
+* [2﻿5-11-2023: Radio 1 Dr Kelder en Co: thermofysiologie](https://www.nporadio1.nl/fragmenten/dr-kelder-en-co/e1811061-c6fb-492f-b053-569adb5ae7ec/2023-11-25-ijsbaden-en-winterzwemmen-onzin-of-onwijs-gezond)
+* [2﻿4-11-2023: Parool; Regenkleding](https://www.parool.nl/ps/toch-niet-weer-een-doorweekte-broek-en-zompige-voeten-10-x-de-beste-tips-voor-regenkleding-op-de-fiets~bbe55853/)
 * [1﻿1-11-2023: AD, Parool; Regen is gezond](https://heindaanen.nl/images/regen-is-gezond.pdf)
 * [1﻿0-11-2023: Radio 1 VRT; koud douchen](https://radio1.be/luister/select/zijn-er-nog-vragen/is-koud-douchen-echt-goed-voor-je-immuunsysteem)
 * [3﻿0-10-2023: BNN; alledaagsevragen Podcast - Kun je wennen aan het weer](https://podcastluisteren.nl/embed/Alledaagse-Vragen-218-Kun-je-wennen-aan-het-weer-S05)
