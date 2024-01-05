@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿023
 
+* [2﻿7-12-2023: NRC; koude](https://heindaanen.nl/images/nrc-krant-20231227-4978501-hoe-is-het-om-hele-dagen-in-de-vrieskou-te-werken-heb-je-het-koud-dan-werk-je-niet-hard-genoeg.pdf)
 * [2﻿5-11-2023: Radio 1 Dr Kelder en Co: thermofysiologie](https://www.nporadio1.nl/fragmenten/dr-kelder-en-co/e1811061-c6fb-492f-b053-569adb5ae7ec/2023-11-25-ijsbaden-en-winterzwemmen-onzin-of-onwijs-gezond)
 * [2﻿4-11-2023: Parool; Regenkleding](https://www.parool.nl/ps/toch-niet-weer-een-doorweekte-broek-en-zompige-voeten-10-x-de-beste-tips-voor-regenkleding-op-de-fiets~bbe55853/)
 * [1﻿1-11-2023: AD, Parool; Regen is gezond](https://heindaanen.nl/images/regen-is-gezond.pdf)
