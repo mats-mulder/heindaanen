@@ -5,6 +5,10 @@ category: Public
 position: 8
 _template: page
 ---
+# 2﻿024
+
+* [5﻿-1-2024: De Standaard; Tegen extreme vrieskou moet ons lichaam zich gewonnen geven](https://www.standaard.be/cnt/dmf20240104_97427711)
+
 # 2﻿023
 
 * [2﻿7-12-2023: NRC; koude](https://heindaanen.nl/images/nrc-krant-20231227-4978501-hoe-is-het-om-hele-dagen-in-de-vrieskou-te-werken-heb-je-het-koud-dan-werk-je-niet-hard-genoeg.pdf)
