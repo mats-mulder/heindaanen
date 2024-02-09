@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿024
 
+* [9﻿-2-2024: Parool; onderzoek kindermaten](https://www.parool.nl/ps/in-het-amfi-worden-baby-s-opgemeten-voor-europese-veiligheidsnormen-jaap-heeft-extreem-grote-handen~ba2bb73d/)
 * [1﻿0-1-2024: Nu.nl; handschoenen of wanten](https://www.nu.nl/slimmer-leven/6297236/wat-is-beter-handschoenen-of-wanten.html)
 * [9﻿-1-2024: RTL in het land; onderkoeling daklozen](https://www.rtlnieuws.nl/daklozen-kou-zorgen-onderkoeling-hoeveel-kou-kan-lichaam-aan)
 * [5﻿-1-2024: De Standaard; Tegen extreme vrieskou moet ons lichaam zich gewonnen geven](https://www.standaard.be/cnt/dmf20240104_97427711)
