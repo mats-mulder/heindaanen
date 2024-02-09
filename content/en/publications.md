@@ -3,6 +3,12 @@ title: Publications
 category: Academic
 position: 3
 ---
+## 2﻿024
+
+* Alkemade, P., Daanen, H.A.M., Janssen, T.W.J., Eijsvogels, T.M.H. Response. Medicine & Science in Sports & Exercise 56 (2): 382, 2024.
+* Daanen, H.A.M., Hoitinga, G., Kruijt, D.J., Koning, K.S., Verheijen, P.P., De Baas, S.I.M., Bergsma, A.R., Snethlage, C.E., Al-Bander, I., Teunissen, L.P.J. Body Core Temperature Assessment in Emergency Care Departments. Emergency Medicine, doi: doi.org/10.1016/j.jemermed.2023.10.027.
+* Wibowo, R., Viet, D., Quartucci, C., Koller, D., Daanen, H.A.M., Nowak, D., Bose-O´Reilly, S., Rakete, S. Effects of heat and personal protective equipment on thermal strain in healthcare workers - Part B: Application of wearable sensors to observe heat strain among healthcare workers under controlled conditions. International Archives of Occupational and Environmental Health 97(1): 45-43. https://doi.org/10.1007/s00420-023-02022-2.
+
 ## 2023
 
 * ﻿[Alkemade, P., De Korte, J.Q., Bongers, C.W.G., Daanen, H.A.M., Hopman, M.T.E., Janssen, T.W.J., Eijsvogels, T.M.H. Humid Heat Equally Impairs Maximal Exercise Performance in Elite Para-Athletes and Able-Bodied Athletes. Medicine & Science in Sports & Exercise 55 (10): 1835 - 1845](http://heindaanen.nl/images/alkemade2023Humid.pdf)
