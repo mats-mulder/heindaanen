@@ -21,6 +21,7 @@ _template: page
 * [1﻿0-11-2023: Radio 1 VRT; koud douchen](https://radio1.be/luister/select/zijn-er-nog-vragen/is-koud-douchen-echt-goed-voor-je-immuunsysteem)
 * [3﻿0-10-2023: BNN; alledaagsevragen Podcast - Kun je wennen aan het weer](https://podcastluisteren.nl/embed/Alledaagse-Vragen-218-Kun-je-wennen-aan-het-weer-S05)
 * [1﻿9-10-2023: Telegraaf; Hebben vrouwen het echt sneller koud dan mannen?](https://www.telegraaf.nl/vrouw/1254983944/hebben-vrouwen-het-echt-sneller-koud-dan-mannen)
+* 1﻿9-9-2023: Inspectiepodcast Hittestress
 * [2﻿7-6-2023: Echo; Le corps humain va-t-il s'adapter à la chaleur ?](https://www.lesechos.fr/idees-debats/editos-analyses/le-corps-humain-va-t-il-sadapter-a-la-chaleur-1954015)
 * [1﻿2-6-2023: AD; Een zonnesteek is gevaarlijker dan je denkt](https://www.ad.nl/gezond/een-zonnesteek-is-gevaarlijker-dan-je-denkt-zo-herken-en-voorkom-je-het~a5f6b94e/)
 * [1﻿9-5-2023: BNN; alledaagsevragen Podcast hitte](https://podcastluisteren.nl/embed/Alledaagse-Vragen-101-Wat-is-de-maximale-hitte-die-een-mens-kan-overleven-S05)
