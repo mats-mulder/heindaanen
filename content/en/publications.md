@@ -8,6 +8,8 @@ position: 3
 * [Alkemade, P., Daanen, H.A.M., Janssen, T.W.J., Eijsvogels, T.M.H. Response. Medicine & Science in Sports & Exercise 56 (2): 382, 2024.](http://heindaanen.nl/images/alkemade2024.pdf)
 * [Daanen, H.A.M., Hoitinga, G., Kruijt, D.J., Koning, K.S., Verheijen, P.P., De Baas, S.I.M., Bergsma, A.R., Snethlage, C.E., Al-Bander, I., Teunissen, L.P.J. Body Core Temperature Assessment in Emergency Care Departments. Emergency Medicine, doi: doi.org/10.1016/j.jemermed.2023.10.027.](http://heindaanen.nl/images/daanen2024emergency.pdf)
 * [Hoekstra, S, Ettema, F, Van der Bijll, M., Van der Sterren, V., Van Binsbergen, E., Van Orsouw, L., Actherberg, W., Daanen, H., Janssen, T., De Groot, S. The effect of breathing exercises and mindset with or without cold exposure on mental and physical health in persons with a spinal cord injury - a protocol for a three-arm randomised-controlled trial. Spinal Cord; https://doi.org/10.1038/s41393-024-00976-9.](http://www.heindaanen.nl/images/hoekstra2024.pdf)
+* ﻿Weller, R.S., Daanen, H.A.M., McClintock, R.J., Roberts, N.A., Dunn, T.L., Jones, D.M. Cold‑induced vasodilation during sequential immersions of the hand. European Journal of Applied Physiology 124(3): 775-781.
+  https://doi.org/10.1007/s00421-023-05304-2.﻿﻿﻿
 * [Wibowo, R., Viet, D., Quartucci, C., Koller, D., Daanen, H.A.M., Nowak, D., Bose-O´Reilly, S., Rakete, S. Effects of heat and personal protective equipment on thermal strain in healthcare workers - Part B: Application of wearable sensors to observe heat strain among healthcare workers under controlled conditions. International Archives of Occupational and Environmental Health 97(1): 45-43. https://doi.org/10.1007/s00420-023-02022-2.](http://heindaanen.nl/images/wibowo2024.pdf)
 
 ## 2023
@@ -18,9 +20,7 @@ position: 3
 * [Daanen, H.A.M., Kohlen, V., Teunissen, L.P.J. Heat flux systems for body core temperature assessment during exercise. Journal of Thermal Biology 112 (2023) 103480.](https:heindaanen.nl/images/daanen2023.pdf)
 * [Daanen, H.A.M., Van de Steeg, M. Warmte- en koudebelasting. In: Praktijkgids Arbeidsveiligheid 2023, Uitgeverij Vakmedianet.](https://www.bruna.nl/boeken/praktijkgids-arbeidsveiligheid-2023-9789462157880)
 * [Van Harten, T., Kuklane, K., Heus, R. Daanen, H.A.M. Ergonomic and performance differences between firefighter protective clothing systems. Poster at European Protective Clothing Conference, Arnhem 2023.](https://heindaanen.nl/images/hartenposter2023.pdf)
-* [Tsoutsoubi L., Ioannou L.G., Alba B.K., Cheung S.S., Daanen H.A., Mekjavic I.B., Flouris A.D. Central versus peripheral mechanisms of cold-induced vasodilation: a study in the fingers and toes of people with paraplegia European Journal of Applied Physiology. DOI: 10.1007/s00421-023-05175-7.](https://heindaanen.nl/images/tsoutsoubi2023.pdf) 
-* [Weller, R.S., Daanen, H.A.M., McClintock, R.J., Roberts, N.A., Dunn, T.L., Jones, D.M. Cold‑induced vasodilation during sequential immersions of the hand. European Journal of Applied Physiology
-  https://doi.org/10.1007/s00421-023-05304-2](https://heindaanen.nl/images/weller2023.pdf)
+* [Tsoutsoubi L., Ioannou L.G., Alba B.K., Cheung S.S., Daanen H.A., Mekjavic I.B., Flouris A.D. Central versus peripheral mechanisms of cold-induced vasodilation: a study in the fingers and toes of people with paraplegia European Journal of Applied Physiology. DOI: 10.1007/s00421-023-05175-7.](https://heindaanen.nl/images/tsoutsoubi2023.pdf) [](https://heindaanen.nl/images/weller2023.pdf)
 
 ## 2022
 
