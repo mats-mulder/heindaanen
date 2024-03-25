@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿024
 
+* [1﻿-3-2024: Universiteit van Nederland; kindermaten](https://www.universiteitvannederland.nl/college/waarom-komen-nederlandse-kinderen-altijd-vast-te-zitten)
 * [1﻿4-2-2024: Universiteit van Nederland; onderkoeling](https://www.youtube.com/watch?v=9UVaxADsz8A)
 * [9﻿-2-2024: Parool; onderzoek kindermaten](https://www.parool.nl/ps/in-het-amfi-worden-baby-s-opgemeten-voor-europese-veiligheidsnormen-jaap-heeft-extreem-grote-handen~ba2bb73d/)
 * [1﻿0-1-2024: Nu.nl; handschoenen of wanten](https://www.nu.nl/slimmer-leven/6297236/wat-is-beter-handschoenen-of-wanten.html)
