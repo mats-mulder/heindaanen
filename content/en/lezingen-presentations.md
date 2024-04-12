@@ -13,6 +13,7 @@ _template: page
 
 ## 2﻿024
 
+* [5﻿/4/2024 Cold-induced vasodilation. ICEE 2024 congres, Jeju (Korea)](www.icee2024.com)
 * [4﻿/19/2024 De invloed van opwarming van de aarde op bewegen. Congres Vereniging voor Bewegingswetenschappen Nederland, Utrecht (NL)](https://www.vvbnsymposium.nl/event2024)
 * [4﻿/11/2024 Presteren op de marathon in hete en koude omstandigheden. Rotterdam Marathon Sportmedisch congres, Rotterdam (NL)](https://www.aanmelder.nl/rm-sportmedisch-congres-2024/programma)
 
