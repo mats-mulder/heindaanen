@@ -11,6 +11,11 @@ _template: page
 
 - - -
 
+## 2﻿024
+
+* [4﻿/19/2024 De invloed van opwarming van de aarde op bewegen. Congres Vereniging voor Bewegingswetenschappen Nederland, Utrecht (NL)](https://www.vvbnsymposium.nl/event2024)
+* [4﻿/11/2024 Presteren op de marathon in hete en koude omstandigheden. Rotterdam Marathon Sportmedisch congres, Rotterdam (NL)](https://www.aanmelder.nl/rm-sportmedisch-congres-2024/programma)
+
 ## 2023
 
 * [6﻿/27/2023 Heet maar bewoonbaar. Symposium Hitte in de Stad: hete hangijzers. HvA, Amsterdam (NL)](https://www.hva.nl/kc-techniek/gedeelde-content/contentgroep/klimaatbestendige-stad/symposia/symposium-2023-06/hittesymposium.html)
