@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿024
 
+* [1﻿1-5-2024: Wie viel Hitze kann der Mensch? Suddeutsche Zeitung](https://heindaanen.nl/images/stadtausgabe-11.05.20243233.pdf)
 * [1﻿-3-2024: Universiteit van Nederland; kindermaten](https://www.universiteitvannederland.nl/college/waarom-komen-nederlandse-kinderen-altijd-vast-te-zitten)
 * [1﻿4-2-2024: Universiteit van Nederland; onderkoeling](https://www.youtube.com/watch?v=9UVaxADsz8A)
 * [9﻿-2-2024: Parool; onderzoek kindermaten](https://www.parool.nl/ps/in-het-amfi-worden-baby-s-opgemeten-voor-europese-veiligheidsnormen-jaap-heeft-extreem-grote-handen~ba2bb73d/)
