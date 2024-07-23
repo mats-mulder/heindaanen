@@ -7,14 +7,10 @@ _template: page
 ---
 # 2﻿024
 
-[7﻿-7-2024: AD; hoeveel warmte kan een lichaam aan?](https://www.ad.nl/wetenschap/hoeveel-warmte-kan-ons-lichaam-aan~a3877625/)
-
-[5﻿-7-2024: Universiteit van Nederland college; hoeveel hitte kan de mens aan?](https://www.universiteitvannederland.nl/college/hoeveel-hitte-kun-je-aan)
-
-[1﻿5-5-2024: Universiteit van Nederland podcast: hoeveel hitte kan de mens aan?](https://www.universiteitvannederland.nl/podcast/hoeveel-hitte-kan-een-mens-aan)
-
-[1﻿1-5-2024: Suddeutsche Zeitung; Wie viel Hitze kann der Mensch?](https://heindaanen.nl/images/stadtausgabe-11.05.20243233.pdf)
-
+* [7﻿-7-2024: AD; hoeveel warmte kan een lichaam aan?](https://www.ad.nl/wetenschap/hoeveel-warmte-kan-ons-lichaam-aan~a3877625/)
+* [5﻿-7-2024: Universiteit van Nederland college; hoeveel hitte kan de mens aan?](https://www.universiteitvannederland.nl/college/hoeveel-hitte-kun-je-aan)
+* [1﻿5-5-2024: Universiteit van Nederland podcast: hoeveel hitte kan de mens aan?](https://www.universiteitvannederland.nl/podcast/hoeveel-hitte-kan-een-mens-aan)
+* [1﻿1-5-2024: Suddeutsche Zeitung; Wie viel Hitze kann der Mensch?](https://heindaanen.nl/images/stadtausgabe-11.05.20243233.pdf)
 * [1﻿-3-2024: Universiteit van Nederland; kindermaten](https://www.universiteitvannederland.nl/college/waarom-komen-nederlandse-kinderen-altijd-vast-te-zitten)
 * [1﻿4-2-2024: Universiteit van Nederland; onderkoeling](https://www.youtube.com/watch?v=9UVaxADsz8A)
 * [9﻿-2-2024: Parool; onderzoek kindermaten](https://www.parool.nl/ps/in-het-amfi-worden-baby-s-opgemeten-voor-europese-veiligheidsnormen-jaap-heeft-extreem-grote-handen~ba2bb73d/)
