@@ -7,7 +7,10 @@ _template: page
 ---
 # 2﻿024
 
-* [1﻿0-7-2024: GezondNu; Hetere Zomers](http://heindaanen.nl/images/Gezondnu2024.pdf)[](http://heindaanen.nl/images/Gezondnu2024.pdf)
+2﻿7-7-2024: Volkskrant; Energie Olympische Sporters
+
+[1﻿0-7-2024: GezondNu; Hetere Zomers](http://heindaanen.nl/images/Gezondnu2024.pdf)[](http://heindaanen.nl/images/Gezondnu2024.pdf)
+
 * [7﻿-7-2024: AD; hoeveel warmte kan een lichaam aan?](https://www.ad.nl/wetenschap/hoeveel-warmte-kan-ons-lichaam-aan~a3877625/)
 * [5﻿-7-2024: Universiteit van Nederland college; hoeveel hitte kan de mens aan?](https://www.universiteitvannederland.nl/college/hoeveel-hitte-kun-je-aan)
 * [1﻿5-5-2024: Universiteit van Nederland podcast: hoeveel hitte kan de mens aan?](https://www.universiteitvannederland.nl/podcast/hoeveel-hitte-kan-een-mens-aan)
