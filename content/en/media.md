@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿024
 
+* [1﻿3-8-2024: De Morgen; hitte](http://heindaanen.nl/images/Morgen2024.pdf)
 * [1﻿2-8-2024: NOS radio Nieuws en Co; hitte (minuut 37)](https://www.nporadio1.nl/uitzendingen/nieuws-en-co/9c6b0f9b-4b37-4f67-9e6e-663a2d26a689/2024-08-12-nieuws-en-co)
 * [12﻿-8-2024: NOS journaal; hitte](https://npo.nl/start/serie/nos-journaal/seizoen-312/nos-journaal_94762/afspelen)
 * [12﻿-8-2024: NOS.nl; hitte](https://nos.nl/artikel/2532977-warmteklap-vooral-voor-ouderen-een-risico-hitte-duurt-te-kort-om-te-wennen)
