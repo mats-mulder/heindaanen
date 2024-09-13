@@ -14,6 +14,7 @@ _template: page
 * [3﻿0-7-2024: Radio M; Kleding in de hitte - vanaf minuut 12](https://www.rtvutrecht.nl/radio/aflevering/utrecht-is-wakker/3747791_20240730080000)
 * [3﻿0-7-2024: RunningNL; Met acclimatisatie kan je veel ellende voorkomen](http://heindaanen.nl/images/RunningNL2024.pdf)
 * [2﻿7-7-2024: Volkskrant; Energie Olympische Sporters](http://heindaanen.nl/images/VKJul2024.pdf)
+* [1﻿6-7-2024: Kookpunt, kennisclips van Veiligheidsregio Amsterdam-Amstelland](https://www.youtube.com/watch?v=4kToDwQXz_E&list=PLD7CUkiVwVRWFkErbu4jLXJlmbpOlaxBz&index=4)
 * [1﻿0-7-2024: GezondNu; Hetere Zomers](http://heindaanen.nl/images/Gezondnu2024.pdf)[](http://heindaanen.nl/images/Gezondnu2024.pdf)
 * [7﻿-7-2024: AD; hoeveel warmte kan een lichaam aan?](https://www.ad.nl/wetenschap/hoeveel-warmte-kan-ons-lichaam-aan~a3877625/)
 * [5﻿-7-2024: Universiteit van Nederland college; hoeveel hitte kan de mens aan?](https://www.universiteitvannederland.nl/college/hoeveel-hitte-kun-je-aan)
