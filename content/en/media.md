@@ -13,6 +13,7 @@ _template: page
 * [12﻿-8-2024: NOS.nl; hitte](https://nos.nl/artikel/2532977-warmteklap-vooral-voor-ouderen-een-risico-hitte-duurt-te-kort-om-te-wennen)
 * [3﻿0-7-2024: Radio M; Kleding in de hitte - vanaf minuut 12](https://www.rtvutrecht.nl/radio/aflevering/utrecht-is-wakker/3747791_20240730080000)
 * [3﻿0-7-2024: RunningNL; Met acclimatisatie kan je veel ellende voorkomen](http://heindaanen.nl/images/RunningNL2024.pdf)
+* [2﻿9-7-2024: BNN podcast; Kun je van ijsjes eten onderkoeld raken?](https://open.spotify.com/episode/2BW8G20TkIDXiICWG1vlub?si=E0LfiSN6RiCGVDWhhiIciw)
 * [2﻿7-7-2024: Volkskrant; Energie Olympische Sporters](http://heindaanen.nl/images/VKJul2024.pdf)
 * [1﻿6-7-2024: Kookpunt, kennisclips van Veiligheidsregio Amsterdam-Amstelland](https://www.youtube.com/watch?v=4kToDwQXz_E&list=PLD7CUkiVwVRWFkErbu4jLXJlmbpOlaxBz&index=4)
 * [1﻿0-7-2024: GezondNu; Hetere Zomers](http://heindaanen.nl/images/Gezondnu2024.pdf)[](http://heindaanen.nl/images/Gezondnu2024.pdf)
