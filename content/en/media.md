@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿024
 
+* [2﻿1-11-2024: Margriet, kussens tegen koude](http://heindaanen.nl/image/margriet2024.pdf)
 * [4﻿-10-2024: VU website; Sun4Cooling project](https://vu.nl/nl/onderzoek/de-zon-inzetten-om-werknemers-te-koelen)
 * [1﻿3-8-2024: De Morgen; hitte](http://heindaanen.nl/images/Morgen2024.jpg)
 * [1﻿2-8-2024: NOS radio Nieuws en Co; hitte (minuut 37)](https://www.nporadio1.nl/uitzendingen/nieuws-en-co/9c6b0f9b-4b37-4f67-9e6e-663a2d26a689/2024-08-12-nieuws-en-co)
