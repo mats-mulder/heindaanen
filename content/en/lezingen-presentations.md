@@ -11,11 +11,17 @@ _template: page
 
 - - -
 
+## 2﻿025
+
+[4﻿/5/2025 Masterclass Sporten in hitte. Georganiseerd door VEJOS. Amsterdam (NL).](https://vejos.eu/nederland/)
+
+[4﻿/4/2025 Performance Preservation in Tennis: Strategies for Hot Weather Conditions. Congres STMS, Amstelveen (NL)](https://www.stmswc25.com/)
+
+[3﻿/7/2025 Human Performance in thermal extremes. Congres AISST. Terschelling (NL).](https://iasst.com/invitation-to-84th-iasst-meeting-in-maritime-)
+
 ## 2﻿024
 
-
-
-1﻿0/1/2024 Cold Fingers, Symposium 'The heat is on', Maastricht (NL)
+[1﻿0/1/2024 Cold Fingers, Symposium 'The heat is on', Maastricht (NL)](http://heindaanen.nl/images/symposium-the-heat-is-on-1-nov-202484.pdf)
 
 [7﻿/9/2024 Presteren in de hitte, AISS symposium, Amsterdam (NL)](https://aiss.nl/presteren-in-hitte/)
 
