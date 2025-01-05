@@ -13,20 +13,15 @@ _template: page
 
 ## 2﻿025
 
-[4﻿/5/2025 Masterclass Sporten in hitte. Georganiseerd door VEJOS. Amsterdam (NL).](https://vejos.eu/nederland/)
-
-[4﻿/4/2025 Performance Preservation in Tennis: Strategies for Hot Weather Conditions. Congres STMS, Amstelveen (NL)](https://www.stmswc25.com/)
-
-[3﻿/7/2025 Human Performance in thermal extremes. Congres AISST. Terschelling (NL).](https://iasst.com/invitation-to-84th-iasst-meeting-in-maritime-)
+* [4﻿/5/2025 Masterclass Sporten in hitte. Georganiseerd door VEJOS. Amsterdam (NL).](https://vejos.eu/nederland/)
+* [4﻿/4/2025 Performance Preservation in Tennis: Strategies for Hot Weather Conditions. Congres STMS, Amstelveen (NL)](https://www.stmswc25.com/)
+* [3﻿/7/2025 Human Performance in thermal extremes. Congres AISST. Terschelling (NL).](https://iasst.com/invitation-to-84th-iasst-meeting-in-maritime-)
 
 ## 2﻿024
 
-[1﻿0/1/2024 Cold Fingers, Symposium 'The heat is on', Maastricht (NL)](http://heindaanen.nl/images/symposium-the-heat-is-on-1-nov-202484.pdf)
-
-[7﻿/9/2024 Presteren in de hitte, AISS symposium, Amsterdam (NL)](https://aiss.nl/presteren-in-hitte/)
-
-[5﻿/4/2024 Cold-induced vasodilation. ICEE 2024 congres, Jeju (Korea)](www.icee2024.com)
-
+* [1﻿0/1/2024 Cold Fingers, Symposium 'The heat is on', Maastricht (NL)](http://heindaanen.nl/images/symposium-the-heat-is-on-1-nov-202484.pdf)
+* [7﻿/9/2024 Presteren in de hitte, AISS symposium, Amsterdam (NL)](https://aiss.nl/presteren-in-hitte/)
+* [5﻿/4/2024 Cold-induced vasodilation. ICEE 2024 congres, Jeju (Korea)](www.icee2024.com)
 * [4﻿/19/2024 De invloed van opwarming van de aarde op bewegen. Congres Vereniging voor Bewegingswetenschappen Nederland, Utrecht (NL)](https://www.vvbnsymposium.nl/event2024)
 * [4﻿/11/2024 Presteren op de marathon in hete en koude omstandigheden. Rotterdam Marathon Sportmedisch congres, Rotterdam (NL)](https://www.aanmelder.nl/rm-sportmedisch-congres-2024/programma)
 
