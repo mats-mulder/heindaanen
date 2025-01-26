@@ -16,6 +16,7 @@ _template: page
 * [4﻿/5/2025 Masterclass Sporten in hitte. Georganiseerd door VEJOS. Amsterdam (NL).](https://vejos.eu/nederland/)
 * [4﻿/4/2025 Performance Preservation in Tennis: Strategies for Hot Weather Conditions. Congres STMS, Amstelveen (NL)](https://www.stmswc25.com/)
 * [3﻿/7/2025 Human Performance in thermal extremes. Congres AISST. Terschelling (NL).](https://iasst.com/invitation-to-84th-iasst-meeting-in-maritime-)
+* [1﻿/27/2025 Gezond leven en werken in de hitte. Werkbijeenkomst Hitteadaptatie. NWO. Den Haag (NL).](http://heindaanen.nl/images/programmaboekje_27_jan_2025.pdf)
 
 ## 2﻿024
 
