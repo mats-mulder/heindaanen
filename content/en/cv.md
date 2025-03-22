@@ -94,6 +94,6 @@ position: 2
 
 ## Awards
 
-* [NATO HFM Panel Excellence Award. 2021.](http://heindaanen.nl/images/panel-excellence-award-certificate_daanen.pdf)
+* [NATO HFM Panel Excellence Award. 2021.](https://heindaanen.nl/images/panel-excellence-award-certificate_daanen.pdf)
 * Daanen, H.A.M., Hatcher, K., Havenith, G. Determination of clothing microclimate volume. Environmental Ergonomics X, Fukuoka, Japan. 23-27 September, 2002. Best poster award.
 * Reducing train costs, best computer program of the month, NOS (National Radio and Television). Hobbyscoop, May 1985.
