@@ -5,6 +5,12 @@ category: Public
 position: 8
 _template: page
 ---
+# 2﻿025
+
+* ﻿2[4-03-2025: Verwarmende kleding](https://www.nporadio1.nl/fragmenten/villa-vdb/0195d28d-d854-70cf-b55d-6cb9a386cd72/2025-03-24-verwarmende-kleding-mogelijk-oplossing-om-energie-te-besparen)
+
+
+
 # 2﻿024
 
 * [2﻿1-11-2024: Margriet, kussens tegen koude](http://heindaanen.nl/images/Margriet2024.pdf)
