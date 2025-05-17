@@ -5,11 +5,11 @@ position: 3
 ---
 ## 2﻿025
 
-* [Yin X., Peri E., Pelssers E., Toonder J.D., Klous L., Daanen H., Mischi M. A personalized model and optimization strategy for estimating blood glucose concentrations from sweat measurements. Computer Methods and Programs in Biomedicine, 265, art. no. 108743 DOI: 10.1016/j.cmpb.2025.108743.](http:\\heindaanen.nl/images/yin2025.pdf)
+* [Yin X., Peri E., Pelssers E., Toonder J.D., Klous L., Daanen H., Mischi M. A personalized model and optimization strategy for estimating blood glucose concentrations from sweat measurements. Computer Methods and Programs in Biomedicine, 265, art. no. 108743 DOI: 10.1016/j.cmpb.2025.108743.](http://heindaanen.nl/images/yin2025.pdf)
 
 ## 2﻿024
 
-* [Alkemade, P., Daanen, H.A.M., Janssen, T.W.J., Eijsvogels, T.M.H. Response. Medicine & Science in Sports & Exercise 56 (2): 382, 2024.](http://heindaanen.nl/images/alkemade2024.pdf)
+* Alkemade, P., Daanen, H.A.M., Janssen, T.W.J., Eijsvogels, T.M.H. Response. Medicine & Science in Sports & Exercise 56 (2): 382, 2024.
 * [Van den Bogaard, T., Klous, L., Daanen, H. Shifts in Critical Environmental Limits due to Short- and Medium term Hot-humid Heat Acclimation. In: Joo-Young Lee and Do-Hee Kim (Eds) The 20th International Conference on Environmental Ergonomics 2024, Book of Abstracts. Publisher: International Society for Environmental Ergonomics. ISBN: 979-11-987858-0-0 (13590). Pages 31-32.](http://heindaanen.nl/images/Bogaard2024ICEE.pdf)
 * [Daanen, H.A.M., Hoitinga, G., Kruijt, D.J., Koning, K.S., Verheijen, P.P., De Baas, S.I.M., Bergsma, A.R., Snethlage, C.E., Al-Bander, I., Teunissen, L.P.J. Body Core Temperature Assessment in Emergency Care Departments. Emergency Medicine, doi: doi.org/10.1016/j.jemermed.2023.10.027.](http://heindaanen.nl/images/daanen2024emergency.pdf)
 * [Daanen, H.A.M Daanen, Weller, R.S., Buczny, J. Cold-Induced Vasodilation: A meta-analysis. In: Joo-Young Lee and Do-Hee Kim (Eds) The 20th International Conference on Environmental Ergonomics 2024, Book of Abstracts. Publisher: International Society for Environmental Ergonomics. ISBN: 979-11-987858-0-0 (13590). Pages 171-172.](http://heindaanen.nl/images/Daanen2024ICEE.pdf)
