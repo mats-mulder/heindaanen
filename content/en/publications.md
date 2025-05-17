@@ -3,6 +3,10 @@ title: Publications
 category: Academic
 position: 3
 ---
+## 2﻿025
+
+* Yin X., Peri E., Pelssers E., Toonder J.D., Klous L., Daanen H., Mischi M. A personalized model and optimization strategy for estimating blood glucose concentrations from sweat measurements. Computer Methods and Programs in Biomedicine, 265, art. no. 108743 DOI: 10.1016/j.cmpb.2025.108743.
+
 ## 2﻿024
 
 * [Alkemade, P., Daanen, H.A.M., Janssen, T.W.J., Eijsvogels, T.M.H. Response. Medicine & Science in Sports & Exercise 56 (2): 382, 2024.](http://heindaanen.nl/images/alkemade2024.pdf)
