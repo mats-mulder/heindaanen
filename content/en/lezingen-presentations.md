@@ -13,6 +13,7 @@ _template: page
 
 ## 2﻿025
 
+* [2﻿/6/2025 Koelende en verwarmende kleding. Kennissessie Persoonsverwarmng; Sigra en actienetwerk GasTerug. Amsterdam (NL)](https://www.actienetwerk-gasterug.nl/events/kennissessie-2-juni)
 * [4﻿/5/2025 Masterclass Sporten in hitte. Georganiseerd door VEJOS. Amsterdam (NL).](https://vejos.eu/nederland/)
 * [4﻿/4/2025 Performance Preservation in Tennis: Strategies for Hot Weather Conditions. Congres STMS, Amstelveen (NL)](https://www.stmswc25.com/)
 * [3﻿/7/2025 Human Performance in thermal extremes. Congres AISST. Terschelling (NL).](https://iasst.com/invitation-to-84th-iasst-meeting-in-maritime-)
