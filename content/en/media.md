@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿025
 
+* [2﻿-6-2025 BNR: gezondheidsschade in de hitte](https://www.bnr.nl/podcast/beter/10575331/de-onzichtbare-gezondheidsschade-van-hitte)
 * [1﻿7-5-2025 NRC: Hardloopwedstrijden gevaarlijker?](http://heindaanen.nl/images/NRC2025.pdf)
 * [﻿4-03-2025: Radio 1: Verwarmende kleding](https://www.nporadio1.nl/fragmenten/villa-vdb/0195d28d-d854-70cf-b55d-6cb9a386cd72/2025-03-24-verwarmende-kleding-mogelijk-oplossing-om-energie-te-besparen)
 
