@@ -11,7 +11,7 @@ position: 3
 
 ## 2﻿024
 
-* Alkemade, P., Daanen, H.A.M., Janssen, T.W.J., Eijsvogels, T.M.H. Response. Medicine & Science in Sports & Exercise 56 (2): 382, 2024.
+* [Alkemade, P., Daanen, H.A.M., Janssen, T.W.J., Eijsvogels, T.M.H. Response. Medicine & Science in Sports & Exercise 56 (2): 382, 2024.](http://heindaanen.nl/images/Alkemade2024.pdf)
 * [Van den Bogaard, T., Klous, L., Daanen, H. Shifts in Critical Environmental Limits due to Short- and Medium term Hot-humid Heat Acclimation. In: Joo-Young Lee and Do-Hee Kim (Eds) The 20th International Conference on Environmental Ergonomics 2024, Book of Abstracts. Publisher: International Society for Environmental Ergonomics. ISBN: 979-11-987858-0-0 (13590). Pages 31-32.](http://heindaanen.nl/images/Bogaard2024ICEE.pdf)
 * [Daanen, H.A.M., Hoitinga, G., Kruijt, D.J., Koning, K.S., Verheijen, P.P., De Baas, S.I.M., Bergsma, A.R., Snethlage, C.E., Al-Bander, I., Teunissen, L.P.J. Body Core Temperature Assessment in Emergency Care Departments. Emergency Medicine, doi: doi.org/10.1016/j.jemermed.2023.10.027.](http://heindaanen.nl/images/daanen2024emergency.pdf)
 * [Daanen, H.A.M Daanen, Weller, R.S., Buczny, J. Cold-Induced Vasodilation: A meta-analysis. In: Joo-Young Lee and Do-Hee Kim (Eds) The 20th International Conference on Environmental Ergonomics 2024, Book of Abstracts. Publisher: International Society for Environmental Ergonomics. ISBN: 979-11-987858-0-0 (13590). Pages 171-172.](http://heindaanen.nl/images/Daanen2024ICEE.pdf)
