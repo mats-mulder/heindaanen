@@ -7,7 +7,7 @@ position: 3
 
 * [Van den Bogaard, T., Klous, L., Cottle, R., Van Erp, J., Daanen, H. The effect of heat acclimation on critical environmental limits and rate of rectal temperature change. Journal of Applied Physiology 138: 1150 - 1160, 2025. DOI: 10.1152/japplphysiol.01004.2024.](https://heindaanen.nl/images/Bogaard2025.pdf)
 * [Yin X., Peri E., Pelssers E., Toonder J.D., Klous L., Daanen H., Mischi M. A personalized model and optimization strategy for estimating blood glucose concentrations from sweat measurements. Computer Methods and Programs in Biomedicine, 265, art. no. 108743 DOI: 10.1016/j.cmpb.2025.108743.](http://heindaanen.nl/images/yin2025.pdf)
-* [Wibowo, R., Satow, M., Quartucci, C., Weinmann, T., Koller, D., Daanen, H.A.M., Nowak, D., Bose-O´Reilly, S., Rakete, S. Impact of Heat Stress, Physical Activity and Protective Clothing on Healthcare Workers: Health, Performance, and Well-being in Hospital Settings. Annals of Work Exposures and Health https://doi.org/10.1093/annweh/wxaf026.](https://heindaanen.nl/images/Wibowo2025.pdf)
+* [Wibowo, R., Satow, M., Quartucci, C., Weinmann, T., Koller, D., Daanen, H.A.M., Nowak, D., Bose-O´Reilly, S., Rakete, S. Impact of Heat Stress, Physical Activity and Protective Clothing on Healthcare Workers: Health, Performance, and Well-being in Hospital Settings. Annals of Work Exposures and Health https://doi.org/10.1093/annweh/wxaf026.](http://heindaanen.nl/images/Wibowo2025.pdf)
 
 ## 2﻿024
 
