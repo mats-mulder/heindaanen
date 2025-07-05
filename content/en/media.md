@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿025
 
+* [2﻿-7-2025 Volkskrant: Waarom kan de een beter tegen hitte dan de ander?](http://heindaanen.nl/images/vk20250702.pdf)
 * [2﻿0-6-2025 Volkskrant: Hitte bij snelwegfestival](http://heindaanen.nl/images/vkjuni2025.pdf)
 * [2﻿-6-2025 BNR: gezondheidsschade in de hitte](https://www.bnr.nl/podcast/beter/10575331/de-onzichtbare-gezondheidsschade-van-hitte)
 * [1﻿7-5-2025 NRC: Hardloopwedstrijden gevaarlijker?](http://heindaanen.nl/images/NRC2025.pdf)
