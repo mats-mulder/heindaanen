@@ -7,12 +7,14 @@ _template: page
 ---
 # 2﻿025
 
+* [1﻿3-8-2025 Nemo kennislink: voorbereiden op hittegolf](https://www.nemokennislink.nl/publicaties/zo-bereid-je-je-voor-op-een-hittegolf/)
 * [1﻿2-7-2025 Volkskrant: Perfect vakantieweer](http://www.heindaanen.nl/images/VKJuli2025.pdf)
 * [2﻿-7-2025 Volkskrant: Waarom kan de een beter tegen hitte dan de ander?](http://heindaanen.nl/images/vk20250702.pdf)
 * [2﻿0-6-2025 Volkskrant: Hitte bij snelwegfestival](http://heindaanen.nl/images/vkjuni2025.pdf)
 * [2﻿-6-2025 BNR: gezondheidsschade in de hitte](https://www.bnr.nl/podcast/beter/10575331/de-onzichtbare-gezondheidsschade-van-hitte)
 * [1﻿7-5-2025 NRC: Hardloopwedstrijden gevaarlijker?](http://heindaanen.nl/images/NRC2025.pdf)
 * [﻿4-03-2025: Radio 1: Verwarmende kleding](https://www.nporadio1.nl/fragmenten/villa-vdb/0195d28d-d854-70cf-b55d-6cb9a386cd72/2025-03-24-verwarmende-kleding-mogelijk-oplossing-om-energie-te-besparen)
+* [2﻿1-2-2025; Nemo kennislink: jezelf gezond zweten](https://www.nemokennislink.nl/publicaties/jezelf-gezond-zweten/)
 
 # 2﻿024
 
