@@ -24,6 +24,7 @@ _template: page
 * [1﻿2-8-2024: NOS radio Nieuws en Co; hitte (minuut 37)](https://www.nporadio1.nl/uitzendingen/nieuws-en-co/9c6b0f9b-4b37-4f67-9e6e-663a2d26a689/2024-08-12-nieuws-en-co)
 * [12﻿-8-2024: NOS journaal; hitte](https://npo.nl/start/serie/nos-journaal/seizoen-312/nos-journaal_94762/afspelen)
 * [12﻿-8-2024: NOS.nl; hitte](https://nos.nl/artikel/2532977-warmteklap-vooral-voor-ouderen-een-risico-hitte-duurt-te-kort-om-te-wennen)
+* [5﻿-8-2024; Nemo kennislink: waarom de een beter tegen hitte kan dan de ander](https://www.nemokennislink.nl/publicaties/waarom-de-een-beter-tegen-hitte-kan-dan-de-ander/)
 * [1﻿-8-2024: Expertise en Recht; De deskundigenverklaring - interview met Hein Daanen](https://heindaanen.nl/images/deskundigenverklaring.pdf)
 * [3﻿0-7-2024: Radio M; Kleding in de hitte - vanaf minuut 12](https://www.rtvutrecht.nl/radio/aflevering/utrecht-is-wakker/3747791_20240730080000)
 * [3﻿0-7-2024: RunningNL; Met acclimatisatie kan je veel ellende voorkomen](http://heindaanen.nl/images/RunningNL2024.pdf)
