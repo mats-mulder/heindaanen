@@ -5,6 +5,7 @@ position: 3
 ---
 ## 2﻿025
 
+* [Satow, M. Wibowo, R., Bose-O’Reilly, S., Koller, D., Daanen, H., Rakete, S. Impact of summer heat on male children’s physiological responses during football training. Environmental Research 286, 2025. DOI: 10.1016/j.envres.2025.122725 ](https://heindaanen.nl/images/Satow2025.pdf)
 * [Van de Kamp, E.D., Daanen, H.A.M. Narrative Review on Infants’ Thermoregulatory Response to Heat. Int. J. Environ. Res. Public Health 22: 1265, 2025. https://doi.org/10.3390/ijerph22081265.](https://heindaanen.nl/images/Kamp2025.pdf)
 * [Van den Bogaard, T., Klous, L., Cottle, R., Van Erp, J., Daanen, H. The effect of heat acclimation on critical environmental limits and rate of rectal temperature change. Journal of Applied Physiology 138: 1150 - 1160, 2025. DOI: 10.1152/japplphysiol.01004.2024.](https://heindaanen.nl/images/Bogaard2025.pdf)
 * [Yin X., Peri E., Pelssers E., Toonder J.D., Klous L., Daanen H., Mischi M. A personalized model and optimization strategy for estimating blood glucose concentrations from sweat measurements. Computer Methods and Programs in Biomedicine, 265, art. no. 108743 DOI: 10.1016/j.cmpb.2025.108743.](http://heindaanen.nl/images/yin2025.pdf)
