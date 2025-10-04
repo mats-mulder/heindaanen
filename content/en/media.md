@@ -7,6 +7,8 @@ _template: page
 ---
 # 2﻿025
 
+* [4﻿-10-2025 Volkskrant: de pieken en dalen van hitte en kou](https://heindaanen.nl/images/VK20251004.pdf)
+* [3﻿-10-2025 Slimmer presteren podcast: slimme kleding](https://slimmer-presteren-podcast.nl/seizoen-12/239-slimmer-presteren-met-slimme-sportkleding-volgens-hein-daanen/)
 * [9﻿-9-2025 Brabants Dagblad: Tijd voor Siesta](https://www.bd.nl/tilburg/ondanks-zomers-met-bijna-40-graden-gaan-wij-toch-aan-het-werk-is-het-tijd-voor-siesta-in-brabant~a3360108)
 * [1﻿3-8-2025 Nemo kennislink: voorbereiden op hittegolf](https://www.nemokennislink.nl/publicaties/zo-bereid-je-je-voor-op-een-hittegolf/)
 * [1﻿2-7-2025 Volkskrant: Perfect vakantieweer](http://www.heindaanen.nl/images/VKJuli2025.pdf)
