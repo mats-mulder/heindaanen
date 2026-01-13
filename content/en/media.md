@@ -7,7 +7,7 @@ _template: page
 ---
 # 2﻿026
 
-* [1﻿3-1-2026 NRC: klappertanden](https://www.heindaanen.nl/images/klappertanden.pdf)
+* [1﻿3-1-2026 NRC: klappertanden](https://www.heindaanen.nl/images/Klappertanden.pdf)
 
 # 2﻿025
 
