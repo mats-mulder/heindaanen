@@ -5,6 +5,10 @@ category: Public
 position: 8
 _template: page
 ---
+# 2﻿026
+
+* [1﻿3-1-2026 NRC: klappertanden](https://www.heindaanen.nl/images/klappertanden.pdf)
+
 # 2﻿025
 
 * [4﻿-10-2025 Volkskrant: de pieken en dalen van hitte en kou](https://heindaanen.nl/images/VK20251004.pdf)
