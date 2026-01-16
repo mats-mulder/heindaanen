@@ -2,6 +2,9 @@
   "name": "hein-daanen",
   "version": "1.0.0",
   "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
