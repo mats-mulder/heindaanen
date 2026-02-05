@@ -3,6 +3,10 @@ title: Publications
 category: Academic
 position: 3
 ---
+## 2﻿026
+
+* Pluim, B.M., Jay, O., Alsma, J., Daanen, H.A.M., Ellenbecker, T.S., Stroia, K.A., Hainline, B. Tennis in the heat: a panel discussion. S Afr J Sports Med 2026;38:1-6. DOI: 10.17159/2078-516X/2026/v38i1a24716. 
+
 ## 2﻿025
 
 * [Jacobs, L.M.G., Klomp, A.M.H., Daanen, H.A.M., Kuklane, K. Heat stress for simulated wildland firefighting. Abstract 15th International Conference Biosystems Engineering. Tartu, May 7-9, 2025.](https://heindaanen.nl/images/Jacobs2025.pdf)
