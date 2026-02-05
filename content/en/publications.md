@@ -5,7 +5,7 @@ position: 3
 ---
 ## 2﻿026
 
-* Pluim, B.M., Jay, O., Alsma, J., Daanen, H.A.M., Ellenbecker, T.S., Stroia, K.A., Hainline, B. Tennis in the heat: a panel discussion. S Afr J Sports Med 2026;38:1-6. DOI: 10.17159/2078-516X/2026/v38i1a24716. 
+* [Pluim, B.M., Jay, O., Alsma, J., Daanen, H.A.M., Ellenbecker, T.S., Stroia, K.A., Hainline, B. Tennis in the heat: a panel discussion. S Afr J Sports Med 2026;38:1-6. DOI: 10.17159/2078-516X/2026/v38i1a24716. ](https://heindaanen.nl/images/Pluim2026.pdf)
 
 ## 2﻿025
 
