@@ -8,6 +8,7 @@ _template: page
 # 2﻿026
 
 * [1﻿3-1-2026 NRC: klappertanden](https://www.heindaanen.nl/images/Klappertanden.pdf)
+* [1﻿-1-2026 Moving Matters: agenda Hein Daanen](https://heindaanen.nl/images/moving-matters-2025.pdf)
 
 # 2﻿025
 
