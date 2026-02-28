@@ -11,8 +11,8 @@ position: 3
 
 ## 2﻿025
 
-* K﻿lomp, A.M.H., Jacobs, L.M.G., Daanen, H.A.M., Kuklane, K. Evaluation of Heat Stress Prediction for Structural Internal Firefighting Scenario.  13th International Manikin & Modelling Meeting (I3M) and The Clothing and Textile Sciences Research Meeting (CTSRM) – Abstracts, Page 9.
-* Jacobs, L.M.G., Klomp, A.M.H., Daanen, H.A.M., Kuklane, K. Heat stress for simulated wildland firefighting. Abstract 15th International Conference Biosystems Engineering. Tartu, May 7-9, 2025.
+* [K﻿lomp, A.M.H., Jacobs, L.M.G., Daanen, H.A.M., Kuklane, K. Evaluation of Heat Stress Prediction for Structural Internal Firefighting Scenario.  13th International Manikin & Modelling Meeting (I3M) and The Clothing and Textile Sciences Research Meeting (CTSRM) – Abstracts, Page 9.](https://heindaanen.nl/images/Klomp2025_1.pdf)
+* [Jacobs, L.M.G., Klomp, A.M.H., Daanen, H.A.M., Kuklane, K. Heat stress for simulated wildland firefighting. Abstract 15th International Conference Biosystems Engineering. Tartu, May 7-9, 2025.](https://heindaanen.nl/images/Jacobs2025.pdf)
 * [Satow, M. Wibowo, R., Bose-O’Reilly, S., Koller, D., Daanen, H., Rakete, S. Impact of summer heat on male children’s physiological responses during football training. Environmental Research 286, 2025. DOI: 10.1016/j.envres.2025.122725 ](https://heindaanen.nl/images/Satow2025.pdf)
 * [Van de Kamp, E.D., Daanen, H.A.M. Narrative Review on Infants’ Thermoregulatory Response to Heat. Int. J. Environ. Res. Public Health 22: 1265, 2025. https://doi.org/10.3390/ijerph22081265.](https://heindaanen.nl/images/Kamp2025.pdf)
 * [Van den Bogaard, T., Klous, L., Cottle, R., Van Erp, J., Daanen, H. The effect of heat acclimation on critical environmental limits and rate of rectal temperature change. Journal of Applied Physiology 138: 1150 - 1160, 2025. DOI: 10.1152/japplphysiol.01004.2024.](https://heindaanen.nl/images/Bogaard2025.pdf)
