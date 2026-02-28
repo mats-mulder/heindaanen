@@ -5,11 +5,13 @@ position: 3
 ---
 ## 2﻿026
 
+* [Ndiaye, A., Daanen, H., Houthuijs, D., Van de Kassteele, J., De Hoogh, K., Zwakhals, L., Van Asten, L., Hagens, W., Klompmaker, J. District-level analysis of temperature related excess mortality risks in the Netherlands. 38th International Conference of the International Society for Environmental Epidemiology (ISEE), Munich.](https://heindaanen.nl/images/Ndiaye2026.pdf)
+* [Peggen, M.A.G., Bongers, C.W.G., De Korte, J.Q., Alkemade, P., Daanen, H.A.M., Hopman, M.T.E., Eijsvogels, T.M.H. Factors Associated With Performance Decrements in Elite Athletes During Exercise Under Hot and Humid Ambient Conditions. International Journal of Sports Physiology and Performance, https://doi.org/10.1123/ijspp.2025-0264. ](https://www.heindaanen.nl/images/Peggen2026.pdf)
 * [Pluim, B.M., Jay, O., Alsma, J., Daanen, H.A.M., Ellenbecker, T.S., Stroia, K.A., Hainline, B. Tennis in the heat: a panel discussion. S Afr J Sports Med 2026;38:1-6. DOI: 10.17159/2078-516X/2026/v38i1a24716. ](https://heindaanen.nl/images/Pluim2026.pdf)
 
 ## 2﻿025
 
-* [Jacobs, L.M.G., Klomp, A.M.H., Daanen, H.A.M., Kuklane, K. Heat stress for simulated wildland firefighting. Abstract 15th International Conference Biosystems Engineering. Tartu, May 7-9, 2025.](https://heindaanen.nl/images/Jacobs2025.pdf)
+* Jacobs, L.M.G., Klomp, A.M.H., Daanen, H.A.M., Kuklane, K. Heat stress for simulated wildland firefighting. Abstract 15th International Conference Biosystems Engineering. Tartu, May 7-9, 2025.
 * [Satow, M. Wibowo, R., Bose-O’Reilly, S., Koller, D., Daanen, H., Rakete, S. Impact of summer heat on male children’s physiological responses during football training. Environmental Research 286, 2025. DOI: 10.1016/j.envres.2025.122725 ](https://heindaanen.nl/images/Satow2025.pdf)
 * [Van de Kamp, E.D., Daanen, H.A.M. Narrative Review on Infants’ Thermoregulatory Response to Heat. Int. J. Environ. Res. Public Health 22: 1265, 2025. https://doi.org/10.3390/ijerph22081265.](https://heindaanen.nl/images/Kamp2025.pdf)
 * [Van den Bogaard, T., Klous, L., Cottle, R., Van Erp, J., Daanen, H. The effect of heat acclimation on critical environmental limits and rate of rectal temperature change. Journal of Applied Physiology 138: 1150 - 1160, 2025. DOI: 10.1152/japplphysiol.01004.2024.](https://heindaanen.nl/images/Bogaard2025.pdf)
