@@ -5,6 +5,8 @@ position: 3
 ---
 ## 2﻿026
 
+* [Daanen, H.A.M. Tegengaan van prestatieverlies bij duursport in de hitte. Sportgericht 1 (80) 10-13, 2026.](https://heindaanen.nl/images/2026Sportgericht.pdf)
+* [De Groot, S., Ettema, F.W.L., Van der Bijll, M., Janssen, T.W.J., Achterberg-Warmer, W.J., WHM study group, Hoekstra, S.P. The effect of breathing exercises and mindset with or without cold exposure on mental and physical health in persons with a spinal cord injury—Results of a randomized controlled trial. Clinical Rehabilitation 1–19. DOI: 10.1177/02692155261428705.](https://heindaanen.nl/images/Groot2026.pdf)
 * [Ndiaye, A., Daanen, H., Houthuijs, D., Van de Kassteele, J., De Hoogh, K., Zwakhals, L., Van Asten, L., Hagens, W., Klompmaker, J. District-level analysis of temperature related excess mortality risks in the Netherlands. 38th International Conference of the International Society for Environmental Epidemiology (ISEE), Munich.](https://heindaanen.nl/images/Ndiaye2026.pdf)
 * [Peggen, M.A.G., Bongers, C.W.G., De Korte, J.Q., Alkemade, P., Daanen, H.A.M., Hopman, M.T.E., Eijsvogels, T.M.H. Factors Associated With Performance Decrements in Elite Athletes During Exercise Under Hot and Humid Ambient Conditions. International Journal of Sports Physiology and Performance, https://doi.org/10.1123/ijspp.2025-0264. ](https://www.heindaanen.nl/images/Peggen2026.pdf)
 * [Pluim, B.M., Jay, O., Alsma, J., Daanen, H.A.M., Ellenbecker, T.S., Stroia, K.A., Hainline, B. Tennis in the heat: a panel discussion. S Afr J Sports Med 2026;38:1-6. DOI: 10.17159/2078-516X/2026/v38i1a24716. ](https://heindaanen.nl/images/Pluim2026.pdf)
