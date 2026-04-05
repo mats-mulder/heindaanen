@@ -11,8 +11,14 @@ _template: page
 
 - - -
 
+## 2﻿026
+
+* [3﻿/5/2026 PMI-bepaling met het Fiala model. Symposium 'Het vroege postmortale interval'. Amsterdam (NL)](https://www.linkedin.com/feed/update/urn:li:activity:7426931660115361794/)
+
 ## 2﻿025
 
+* [1﻿0/21/2025 Hittefysiologie van kwetsbaren. Tropensymposium LOVAH. Amsterdam (NL).](www.lovah.nl)
+* [1﻿0/10/2025 Van onderkoeling tot oververhitting. Afscheidscollege VU. Amsterdam (NL).](https://www.amsterdamumc.org/en/research/institutes/amsterdam-movement-sciences/events/symposium-and-valedictory-lecture-professor-dr.-hein-daanen)
 * [2﻿/6/2025 Koelende en verwarmende kleding. Kennissessie Persoonsverwarmng; Sigra en actienetwerk GasTerug. Amsterdam (NL)](https://www.actienetwerk-gasterug.nl/events/kennissessie-2-juni)
 * [4﻿/5/2025 Masterclass Sporten in hitte. Georganiseerd door VEJOS. Amsterdam (NL).](https://vejos.eu/nederland/)
 * [4﻿/4/2025 Performance Preservation in Tennis: Strategies for Hot Weather Conditions. Congres STMS, Amstelveen (NL)](https://www.stmswc25.com/)
