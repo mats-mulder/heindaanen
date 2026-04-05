@@ -17,7 +17,7 @@ _template: page
 
 ## 2﻿025
 
-* [1﻿0/21/2025 Hittefysiologie van kwetsbaren. Tropensymposium LOVAH. Amsterdam (NL).](www.lovah.nl)
+* [1﻿0/21/2025 Hittefysiologie van kwetsbaren. Tropensymposium LOVAH. Amsterdam (NL).](https://www.lovah.nl)
 * [1﻿0/10/2025 Van onderkoeling tot oververhitting. Afscheidscollege VU. Amsterdam (NL).](https://www.amsterdamumc.org/en/research/institutes/amsterdam-movement-sciences/events/symposium-and-valedictory-lecture-professor-dr.-hein-daanen)
 * [2﻿/6/2025 Koelende en verwarmende kleding. Kennissessie Persoonsverwarmng; Sigra en actienetwerk GasTerug. Amsterdam (NL)](https://www.actienetwerk-gasterug.nl/events/kennissessie-2-juni)
 * [4﻿/5/2025 Masterclass Sporten in hitte. Georganiseerd door VEJOS. Amsterdam (NL).](https://vejos.eu/nederland/)
