@@ -15,6 +15,8 @@ position: "7"
 
 [S﻿tephan van der Zwaard](https://www.linkedin.com/in/stephanvanderzwaard/)
 
+[T﻿wan ten Haaf](https://www.linkedin.com/in/twantenhaaf/)
+
 [T﻿hierry Mentzel](https://www.linkedin.com/in/thierry-mentzel-4716534/)
 
 [I﻿rene Maldini](https://www.linkedin.com/in/irene-maldini-53a79561/)
