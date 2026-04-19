@@ -20,7 +20,7 @@ position: 2
 
 ## Title
 
-* Full professor in (environmental) exercise physiology, Vrije Universiteit, Amsterdam
+* Emeritus professor in (environmental) exercise physiology, Vrije Universiteit, Amsterdam
 * Director of Sizing Science
 
 ## Education
@@ -45,9 +45,10 @@ position: 2
 
 ## Employment
 
-* 2016 - now Full professor in (environmental) exercise physiology, Vrije Universiteit Amsterdam
+* 2﻿025 - 2026 Scientific chair of the Center for Defence and Resilient Society, Vrije Universiteit Amsterdam
+* 2016 - 2025 Full professor in (environmental) exercise physiology, Vrije Universiteit Amsterdam
 * 2010 - now Director of Sizing Science
-* 2﻿016 - 2023 Director of Master education in Human Movement Sciences, Vrije Unversiteit Amsterdam
+* 2﻿016 - 2023 Director of Master education in Human Movement Sciences, Vrije Universiteit Amsterdam
 * 2﻿016 - 2023 Head of physiology section, Vrije Universiteit Amsterdam
 * 2013 - 2016 Professor at the Amsterdam Fashion Institute, Amsterdam University of Applied Sciences
 * 2011 - 2016 Principal scientist at TNO
