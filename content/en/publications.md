@@ -5,6 +5,10 @@ position: 3
 ---
 ## 2﻿026
 
+* [Daanen, H.A.M., Haakma, N.J., Quraishi, H.A., Klous, L., Van Marken Lichtenbelt, W.D., Bongers, C.C.W.G. Evaluation of a new system to determine wireless real‑time skin temperature. Journal of Thermal Analysis and Calorimetry. https://doi.org/10.1007/s10973-026-15570-9.](https://heindaanen.nl/images/DaanenSkin2006.pdf)
+
+<!---->
+
 * [Daanen, H.A.M. Tegengaan van prestatieverlies bij duursport in de hitte. Sportgericht 1 (80) 10-13, 2026.](https://heindaanen.nl/images/2026Sportgericht.pdf)
 * [De Groot, S., Ettema, F.W.L., Van der Bijll, M., Janssen, T.W.J., Achterberg-Warmer, W.J., WHM study group, Hoekstra, S.P. The effect of breathing exercises and mindset with or without cold exposure on mental and physical health in persons with a spinal cord injury—Results of a randomized controlled trial. Clinical Rehabilitation 1–19. DOI: 10.1177/02692155261428705.](https://heindaanen.nl/images/Groot2026.pdf)
 * [Ndiaye, A., Daanen, H., Houthuijs, D., Van de Kassteele, J., De Hoogh, K., Zwakhals, L., Van Asten, L., Hagens, W., Klompmaker, J. District-level analysis of temperature related excess mortality risks in the Netherlands. 38th International Conference of the International Society for Environmental Epidemiology (ISEE), Munich.](https://heindaanen.nl/images/Ndiaye2026.pdf)
