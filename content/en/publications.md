@@ -5,7 +5,7 @@ position: 3
 ---
 ## 2﻿026
 
-* [Daanen, H.A.M., Haakma, N.J., Quraishi, H.A., Klous, L., Van Marken Lichtenbelt, W.D., Bongers, C.C.W.G. Evaluation of a new system to determine wireless real‑time skin temperature. Journal of Thermal Analysis and Calorimetry. https://doi.org/10.1007/s10973-026-15570-9.](https://heindaanen.nl/images/DaanenSkin2006.pdf)
+* [Daanen, H.A.M., Haakma, N.J., Quraishi, H.A., Klous, L., Van Marken Lichtenbelt, W.D., Bongers, C.C.W.G. Evaluation of a new system to determine wireless real‑time skin temperature. Journal of Thermal Analysis and Calorimetry. https://doi.org/10.1007/s10973-026-15570-9.](https://heindaanen.nl/images/Daanen2006Skin.pdf)
 
 <!---->
 
