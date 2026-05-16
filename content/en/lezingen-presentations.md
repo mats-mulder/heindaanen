@@ -13,6 +13,7 @@ _template: page
 
 ## 2﻿026
 
+* [5﻿/7/2026 Hitte in de stad. Symposium Pakhuis de Zwijger, Amsterdam (NL)](https://www.youtube.com/watch?v=NKcmTzUZVAU&t=641s)
 * [3﻿/5/2026 PMI-bepaling met het Fiala model. Symposium 'Het vroege postmortale interval'. Amsterdam (NL)](https://www.linkedin.com/feed/update/urn:li:activity:7426931660115361794/)
 
 ## 2﻿025
