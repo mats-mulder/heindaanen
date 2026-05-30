@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿026
 
+* [2﻿8-5-2026 EenVandaag: ventilator tegen hitte](https://www.nporadio1.nl/fragmenten/eenvandaag/019e6e9b-613e-708f-a7eb-1a4eb754a746/2026-05-28-werkt-een-ventilator-beter-als-je-hem-bij-een-open-raam-zet)
 * [1﻿3-1-2026 NRC: klappertanden](https://www.heindaanen.nl/images/Klappertanden.pdf)
 * [1﻿-1-2026 Moving Matters: agenda Hein Daanen](https://heindaanen.nl/images/moving-matters-2025.pdf)
 
