@@ -26,3 +26,5 @@ position: "7"
 [M﻿ireille Folkerts](https://www.linkedin.com/in/mireillefolkerts/)
 
 [P﻿uck Alkemade](https://www.linkedin.com/in/puck-alkemade-b6467bab/)
+
+[R﻿ebecca Weller](https://www.linkedin.com/in/rebecca-weller-271557122/)
