@@ -7,6 +7,8 @@ _template: page
 ---
 # 2﻿026
 
+* [1﻿1-6-2026 Een Vandaag: sporten bij 30 graden](https://m.youtube.com/watch?v=Juc8DZlmKqs&t=4s&pp=2AEEkAIBugUEEgJubA%3D%3D)
+* [7﻿-6-2026 NRC: hitte WK voetbal](https://www.nrc.nl/nieuws/2026/06/07/in-vrijwel-elke-speelstad-dreigt-dit-wk-extreme-hitte-hoe-kan-oranje-zich-daarop-voorbereiden-a4925612)
 * [2﻿-6-2026 Trouw: Marathon met warm weer](https://www.trouw.nl/gezondheid/een-marathon-met-warm-weer-kan-dat-niet-anders~b6a46e57/)
 * [2﻿8-5-2026 EenVandaag: ventilator tegen hitte](https://www.nporadio1.nl/fragmenten/eenvandaag/019e6e9b-613e-708f-a7eb-1a4eb754a746/2026-05-28-werkt-een-ventilator-beter-als-je-hem-bij-een-open-raam-zet)
 * [1﻿3-1-2026 NRC: klappertanden](https://www.heindaanen.nl/images/Klappertanden.pdf)
