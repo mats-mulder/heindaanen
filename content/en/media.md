@@ -7,6 +7,9 @@ _template: page
 ---
 # 2﻿026
 
+* 1﻿8-6-2026 RTL nieuws: hitte
+* ﻿[1﻿8-6-2026 EenVandaag radio: hitte ﻿](https://www.nporadio1.nl/uitzendingen/eenvandaag/019b7f4a-da99-70d9-b71b-7ed111be80d1/2026-06-18-eenvandaag)
+* [1﻿8-6-2026 Goedemorgen Nederland: Hitte](https://npo.nl/start/afspelen/goedemorgen-nederland_11183)
 * [1﻿1-6-2026 Een Vandaag: sporten bij 30 graden](https://m.youtube.com/watch?v=Juc8DZlmKqs&t=4s&pp=2AEEkAIBugUEEgJubA%3D%3D)
 * [7﻿-6-2026 NRC: hitte WK voetbal](https://www.nrc.nl/nieuws/2026/06/07/in-vrijwel-elke-speelstad-dreigt-dit-wk-extreme-hitte-hoe-kan-oranje-zich-daarop-voorbereiden-a4925612)
 * [2﻿-6-2026 Trouw: Marathon met warm weer](https://www.trouw.nl/gezondheid/een-marathon-met-warm-weer-kan-dat-niet-anders~b6a46e57/)
