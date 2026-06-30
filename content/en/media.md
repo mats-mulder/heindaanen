@@ -7,6 +7,8 @@ _template: page
 ---
 # 2﻿026
 
+* [2﻿7-6-2026 Volkskrant: Airconditioning](https://www.heindaanen.nl/images/VK2026Airco.pdf)
+* [2﻿5-6-2026 Volkskrant: Koelen door ijs te eten](https://www.heindaanen.nl/images/VK2026ijs.pdf)
 * 1﻿8-6-2026 RTL nieuws: hitte
 * ﻿[1﻿8-6-2026 EenVandaag radio: hitte ﻿](https://www.nporadio1.nl/uitzendingen/eenvandaag/019b7f4a-da99-70d9-b71b-7ed111be80d1/2026-06-18-eenvandaag)
 * [1﻿8-6-2026 Goedemorgen Nederland: Hitte](https://npo.nl/start/afspelen/goedemorgen-nederland_11183)
