@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿026
 
+* [2﻿-7-2026 Spraakmakers Radio: Ouderen en sterfte in hitte (vanaf 1:06:50)](https://www.nporadio1.nl/uitzendingen/spraakmakers/0199a4f5-c133-7088-a6af-d333c6ff0488/2026-07-02-spraakmakers)
 * [2﻿7-6-2026 Volkskrant: Airconditioning](https://www.heindaanen.nl/images/VK2026Airco.pdf)
 * [2﻿5-6-2026 Volkskrant: Koelen door ijs te eten](https://www.heindaanen.nl/images/VK2026ijs.pdf)
 * 1﻿8-6-2026 RTL nieuws: hitte
