@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿026
 
+* [1﻿6-7-2026 Nederlands Dagblad: Hittesterfte](https://www.heindaanen.nl/images/NederlandsDagblad.pdf)
 * [2﻿-7-2026 Spraakmakers Radio: Ouderen en sterfte in hitte (vanaf 1:06:50)](https://www.nporadio1.nl/uitzendingen/spraakmakers/0199a4f5-c133-7088-a6af-d333c6ff0488/2026-07-02-spraakmakers)
 * [1﻿-7-2026 Algemeen Dagblad: hitte-acclimatisatie](https://www.ad.nl/binnenland/de-volgende-hittegolf-komt-eraan-maar-dan-is-je-lichaamstemperatuur-waarschijnlijk-0-3-graden-lager~af467546/)
 * [2﻿7-6-2026 Volkskrant: Airconditioning](https://www.heindaanen.nl/images/VK2026Airco.pdf)
