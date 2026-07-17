@@ -6,15 +6,13 @@ position: 3
 ## 2﻿026
 
 * [Daanen, H.A.M., Haakma, N.J., Quraishi, H.A., Klous, L., Van Marken Lichtenbelt, W.D., Bongers, C.C.W.G. Evaluation of a new system to determine wireless real‑time skin temperature. Journal of Thermal Analysis and Calorimetry. https://doi.org/10.1007/s10973-026-15570-9.](https://heindaanen.nl/images/Daanen2006Skin.pdf)
-
-<!---->
-
 * [Daanen, H.A.M. Tegengaan van prestatieverlies bij duursport in de hitte. Sportgericht 1 (80) 10-13, 2026.](https://heindaanen.nl/images/2026Sportgericht.pdf)
 * [De Groot, S., Ettema, F.W.L., Van der Bijll, M., Janssen, T.W.J., Achterberg-Warmer, W.J., WHM study group, Hoekstra, S.P. The effect of breathing exercises and mindset with or without cold exposure on mental and physical health in persons with a spinal cord injury—Results of a randomized controlled trial. Clinical Rehabilitation 1–19. DOI: 10.1177/02692155261428705.](https://heindaanen.nl/images/Groot2026.pdf)
 * [Ndiaye, A., Daanen, H., Houthuijs, D., Van de Kassteele, J., De Hoogh, K., Zwakhals, L., Van Asten, L., Hagens, W., Klompmaker, J. District-level analysis of temperature related excess mortality risks in the Netherlands. 38th International Conference of the International Society for Environmental Epidemiology (ISEE), Munich.](https://heindaanen.nl/images/Ndiaye2026.pdf)
 * [Peggen, M.A.G., Bongers, C.W.G., De Korte, J.Q., Alkemade, P., Daanen, H.A.M., Hopman, M.T.E., Eijsvogels, T.M.H. Factors Associated With Performance Decrements in Elite Athletes During Exercise Under Hot and Humid Ambient Conditions. International Journal of Sports Physiology and Performance, https://doi.org/10.1123/ijspp.2025-0264. ](https://www.heindaanen.nl/images/Peggen2026.pdf)
 * [Pluim, B.M., Jay, O., Alsma, J., Daanen, H.A.M., Ellenbecker, T.S., Stroia, K.A., Hainline, B. Tennis in the heat: a panel discussion. S Afr J Sports Med 2026;38:1-6. DOI: 10.17159/2078-516X/2026/v38i1a24716. ](https://heindaanen.nl/images/Pluim2026.pdf)
 * [Van de Kamp, E.D., Schneider, F., Daanen, H.A.M., Huynen, M. Comparing heatwave experiences, behaviors, and risk perceptions across high-risk populations in the Netherlands: A cross-sectional survey study. The Journal of Climate Change and Health 29 (2026) 100689, https://doi.org/10.1016/j.joclim.2026.100689.](https://heindaanen.nl/images/Kamp2026.pdf)
+* [Van den Boogaard, T.; Verheijen, P., Klous, L., Van Erp, J., Daanen, H. Responsiveness of the CALERA Research Sensor to heat-acclimation-induced reductions in rectal temperature. Journal of Thermal Biology 140. https://doi.org/10.1016/j.jtherbio.2026.104541. ](https://www.heindaanen.nl/images/Boogaard2026.pdf)
 * [W﻿eller, R.S., Buczny, J., Daanen, H.A.M. Cold-Induced vasodilation: A meta-analysis, Temperature, DOI: 10.1080/23328940.2026.2646391.](https://heindaanen.nl/images/Weller2026.pdf)
 
 ## 2﻿025
