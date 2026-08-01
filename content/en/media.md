@@ -7,7 +7,7 @@ _template: page
 ---
 # 2﻿026
 
-* [3﻿0-7-2026 NPO1 Radio De Rode Draad: Hitte (vanaf 34:28)](https://www.nporadio1.nl/uitzendingen/de-rode-draad/019ae9c6-3cca-70b3-bdb6-4453d6ad3034/2026-07-30-de-rode-draad)
+* [3﻿0-7-2026 NPO1 Radio De Rode Draad: Hitte](https://www.nporadio1.nl/fragmenten/de-rode-draad/019fb7e2-c36a-71c8-8dbe-ffeb3c7fe372/2026-07-31-hoeveel-hitte-kan-een-mens-aan)
 * [1﻿6-7-2026 Nederlands Dagblad: Hittesterfte](https://www.heindaanen.nl/images/NederlandsDagblad.pdf)
 * [2﻿-7-2026 Spraakmakers Radio: Ouderen en sterfte in hitte (vanaf 1:06:50)](https://www.nporadio1.nl/uitzendingen/spraakmakers/0199a4f5-c133-7088-a6af-d333c6ff0488/2026-07-02-spraakmakers)
 * [1﻿-7-2026 Algemeen Dagblad: hitte-acclimatisatie](https://www.ad.nl/binnenland/de-volgende-hittegolf-komt-eraan-maar-dan-is-je-lichaamstemperatuur-waarschijnlijk-0-3-graden-lager~af467546/)
