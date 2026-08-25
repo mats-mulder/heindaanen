@@ -35,7 +35,7 @@ position: 2
 
 ## Management training
 
-* [Senior teaching qualification, 2020](/images/stq.pdf "STQ")
+* [Senior teaching qualification, 2020](https://www.heindaanen.nl/images/STQ.pdf)
 * Short courses: Project Management Techniques; Result Oriented Coaching; Project Development; Sales Management; Employee Assessment
 * Senior Management Development, Bonfire and TNO management, 2006 and 2007
 * Giving and receiving feedback, Hofkes Frolke Meekel Organisation Psychologists, Oktober, 2006
