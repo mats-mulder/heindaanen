@@ -7,6 +7,7 @@ _template: page
 ---
 # 2﻿026
 
+* [1﻿6-8-2026 NRC: werkt een waaier?](https://heindaanen.nl/images/NRC2026.pdf)
 * [3﻿0-7-2026 NPO1 Radio De Rode Draad: Hitte](https://www.nporadio1.nl/fragmenten/de-rode-draad/019fb7e2-c36a-71c8-8dbe-ffeb3c7fe372/2026-07-31-hoeveel-hitte-kan-een-mens-aan)
 * [1﻿6-7-2026 Nederlands Dagblad: Hittesterfte](https://www.heindaanen.nl/images/NederlandsDagblad.pdf)
 * [2﻿-7-2026 Spraakmakers Radio: Ouderen en sterfte in hitte (vanaf 1:06:50)](https://www.nporadio1.nl/uitzendingen/spraakmakers/0199a4f5-c133-7088-a6af-d333c6ff0488/2026-07-02-spraakmakers)
