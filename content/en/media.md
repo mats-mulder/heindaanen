@@ -244,7 +244,7 @@ _template: page
 * 18-3-2015; NRC; Nooit meer een pashokje in
 * 17-3-2015; NRC-Next; Nooit meer een pashokje in
 * 9-3-2015; Volkskrant; zweten
-* 24-1-2015; NRC; Ijszwemmen
+* [24-1-2015; NRC; Ijszwemmen](https://images/NRC150125.pdf)
 * 18-1-2015; Radio 2; Jas binnen aantrekken
 * 1-1-2015; Radio West; nieuwjaarsduik
 
