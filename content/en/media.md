@@ -254,6 +254,7 @@ _template: page
 * 8-12-2014; RTL in het land; kou naar gasstoring
 * 11-11-2014; Omroep West website; straks minder koud als je nu de trui uitstelt
 * 12-9-2014; AD; slimme kleding heeft de toekomst
+* [2﻿3-08-2014; Parool; Met webcam thuis kleren bestellen](https://heindaanen.nl/images/Parool140823.pdf)
 * 14-8-2014; MAX-TV lekker weertje; koudeblootstelling
 * 10-7-2014; BNR nieuwsradio; 3D pashokje
 * 7-6-2014; NOS Journaal; nieuwe kinderkledingmaten
