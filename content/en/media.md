@@ -440,7 +440,7 @@ _template: page
 
 # 1﻿999
 
-* [1﻿-11-1999; XXXL; TNO meetmethode opstap naar maatwerk](httpsL//heindaanen.nl/images/XXXL9906.pdf)
+* [1﻿-11-1999; XXXL; TNO meetmethode opstap naar maatwerk](https://heindaanen.nl/images/XXXL9906.pdf)
 * 4-8-1999; Nederlands Dagblad; Hitte en prestatie
 * 4-8-1999; Nederlands Dagblad; Warmte zorgt in het verkeer voor verhitte gemoederen
 * 1-7-1999; Fiets; Barstende koppijn of een barst in je kop
