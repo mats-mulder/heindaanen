@@ -440,6 +440,7 @@ _template: page
 
 # 1﻿999
 
+* [1﻿-11-1999; XXXL; TNO meetmethode opstap naar maatwerk](httpsL//heindaanen.nl/images/XXXL9906.pdf)
 * 4-8-1999; Nederlands Dagblad; Hitte en prestatie
 * 4-8-1999; Nederlands Dagblad; Warmte zorgt in het verkeer voor verhitte gemoederen
 * 1-7-1999; Fiets; Barstende koppijn of een barst in je kop
@@ -461,6 +462,7 @@ _template: page
 * 11-9-1998; Rotterdams Dagblad; De high-tech kleermaker komt er aan
 * 11-9-1998; Ultimate Kick (KRO TV); Lichaamsmaten
 * 10-9-1998; Haagse Courant; De high-tech kleermaker komt er aan
+* [1﻿-9-1998; XXXL; De high-tech kleermaker komt er aan](https://heindaanen.nl/images/XXXL9805.pdf)
 * 26-7-1998; Uniform-magazine; Bodyscan-eindelijk de juiste maat
 * 25-7-1998; Utrechts Nieuwsblad; Digitaal de kledingmaat opnemen
 * 11-7-1998; Leeuwarder Courant; Nederlander de maat genomen
