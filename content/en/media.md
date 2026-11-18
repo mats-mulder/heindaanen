@@ -7,6 +7,8 @@ _template: page
 ---
 # 2﻿026
 
+* [1﻿2-11-2026 Quest: Ben je voor altijd een koukleum of kun je het weer afleren?](https://share.google/dk5xPaXZ7ArJWihxY)
+* [1﻿1-11-2026 Quest: Blijven je handen koud nadat je handschoenen aantrekt?](https://share.google/shJ1OXlEuxD5iaz5A)
 * [1﻿2-10-2026 Trouw: Klimaatverandering zorgt voor meer nierschade](https://heindaanen.nl/images/Trouw261012.pdf)
 * [6﻿-10-2026 Volkskrant: Koud kunstje](https://heindaanen.nl/images/VK261006.pdf)
 * [1﻿6-8-2026 NRC: werkt een waaier?](https://heindaanen.nl/images/NRC2026.pdf)
